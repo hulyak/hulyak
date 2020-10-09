@@ -9,7 +9,7 @@ My name is Hulya, I'm a frontend web developer focusing on Javascript and using 
 - 🔭 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning React, Redux
 - 💬 Ask me about anything related to Javascript/React/Express/Node
-- 📫 How to reach me: [@gautamkrishnar](https://twitter.com/hulyakarakayaa)
+- 📫 How to reach me: [@hulyakarakayaa](https://twitter.com/hulyakarakayaa)
 - ⚡ Fun fact: I scared of 🐈
 
 ### What I speak...
