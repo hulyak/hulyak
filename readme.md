@@ -33,15 +33,15 @@ My name is Hulya, I'm a frontend web developer focusing on Javascript and using 
   <img src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' width='32' title='React'>
   <img src='https://img.stackshare.io/service/1030/leaf-360x360.png' width='32' title='MongoDB'>
   <img src='https://img.stackshare.io/service/1231/0TXzZU7W_400x400.jpg' width='32' title='Mongoose'>
-  <img src='https://img.stackshare.io/service/683/sBsvBbjY.png' width='32' title='Github Pages'>
+<!--   <img src='https://img.stackshare.io/service/683/sBsvBbjY.png' width='32' title='Github Pages'> -->
   <img src='https://img.stackshare.io/service/64/cU74ahCn_400x400.jpg' width='32' title='Google Analytics'>
   <img src='https://img.stackshare.io/service/3244/1_Mr1Fy00XjPGNf1Kkp_hWtw_2x.png' width='32' title='Font Awesome'>
-  <img src='https://img.stackshare.io/service/2652/ZWREQYdH_400x400.jpg' width='32' title='Google Fonts'>
+<!--   <img src='https://img.stackshare.io/service/2652/ZWREQYdH_400x400.jpg' width='32' title='Google Fonts'> -->
   <img src='https://img.stackshare.io/service/1046/git.png' width='32' title='Git'>
   <img src='https://img.stackshare.io/service/27/sBsvBbjY.png' width='32' title='Github'>
   <img src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png' width='32' title='NPM'>
   <img src='https://img.stackshare.io/service/7618/bHjpwZem_400x400.png' width='32' title='Vercel'>
-  <img src='https://img.stackshare.io/service/2748/lV55uZMx.png' width='32' title='Netlify'>
+<!--   <img src='https://img.stackshare.io/service/2748/lV55uZMx.png' width='32' title='Netlify'> -->
 </p>
 
 ### IDEs...
