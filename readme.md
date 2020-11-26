@@ -7,9 +7,11 @@
 My name is Hulya, I'm a frontend web developer focusing on Javascript and using MERN stack.
 
 - 🔭 I’m currently working on something cool :wink:
-- 🌱 I’m currently learning React, Redux
+- 🌱 I’m currently learning so many things..
 - 💬 Ask me about anything related to Javascript/React/Express/Node
 - 📫 How to reach me: [@hulyakarakayaa](https://twitter.com/hulyakarakayaa)
+- 👩‍💻 Technical writer at Hashnode and Dev.to
+- ✌🏻 Winner of North America Facebook Community Challenge
 - ⚡ Fun fact: I'm scared of 🐈
 
 ### What I speak...
