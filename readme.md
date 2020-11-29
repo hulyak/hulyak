@@ -12,7 +12,7 @@ My name is Hulya, I'm a frontend web developer focusing on Javascript and using 
 - 📫 How to reach me: [@hulyakarakayaa](https://twitter.com/hulyakarakayaa)
 - 👩‍💻 Technical writer at Hashnode and Dev.to
 - ✌🏻 Winner of North America Facebook Community Challenge
-- 💕 Open Source Contributer, currently for the Wikimedia Foundation
+- 💕 Open Source Contributor, currently for the Wikimedia Foundation
 - ⚡ Fun fact: I'm scared of 🐈
 
 ### What I speak...
