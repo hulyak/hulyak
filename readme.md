@@ -2,7 +2,6 @@
 
 [![Hulya's github stats](https://github-readme-stats.vercel.app/api?username=hulyak&show_icons=true&theme=radical&hide=stars)](https://github.com/hulyak/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hulyak&layout=compact&card_width=445)](https://github.com/hulyak/github-readme-stats)
 
 My name is Hulya, I'm a frontend web developer focusing on Javascript and using MERN stack.
 
