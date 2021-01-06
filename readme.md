@@ -8,7 +8,7 @@ My name is Hulya, I'm a frontend web developer focusing on Javascript and using 
 - 🔭 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning so many things..
 - 💬 Ask me about anything related to Javascript/React/Express/Node
-- 📫 How to reach me: [@hulyakarakayaa](https://twitter.com/hulyakarakayaa)
+- 📫 How to reach me: [@hulyakarakayaa](https://twitter.com/hulyakarkya)
 - 👩‍💻 Technical writer at [Hashnode](https://hulyakarakaya.hashnode.dev/) and [Dev.to](https://dev.to/hulyakarakaya)
 - ✌🏻 Winner of North America Facebook Community Challenge
 - 💕 Open Source Contributor, currently for the Wikimedia Foundation
