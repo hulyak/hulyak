@@ -11,7 +11,6 @@ My name is Hulya, I'm a frontend web developer focusing on Javascript and using 
 - 📫 How to reach me: [@hulyakarkya](https://twitter.com/hulyakarkya)
 - 👩‍💻 Technical writer at [Hashnode](https://hulyakarakaya.hashnode.dev/) and [Dev.to](https://dev.to/hulyakarakaya)
 - ✌🏻 Winner of North America Facebook Community Challenge
-- 💕 Open Source Contributor, currently for the Wikimedia Foundation
 - ⚡ Fun fact: I'm scared of 🐈
 
 ### What I speak...
