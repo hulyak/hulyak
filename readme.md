@@ -2,6 +2,8 @@
 
 ![Hulya's github stats](https://github-readme-stats.vercel.app/api?username=hulyak&show_icons=true&theme=radical)
 
+![views](https://komarev.com/ghpvc/?username=hulyak)
+
 
 My name is Hulya, I'm a frontend web developer focusing on Javascript and using MERN stack.
 
