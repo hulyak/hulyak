@@ -1,6 +1,6 @@
 ### Hi there <a href="https://hulya.netlify.app/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-[![Hulya's github stats](https://github-readme-stats.vercel.app/api?username=hulyak&show_icons=true&theme=radical&hide=stars)](https://github.com/hulyak/)
+[![Hulya's github stats](https://github-readme-stats.vercel.app/api?username=hulyak&show_icons=true&theme=radical)
 
 
 My name is Hulya, I'm a frontend web developer focusing on Javascript and using MERN stack.
