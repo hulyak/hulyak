@@ -4,7 +4,6 @@
 
 ![views](https://komarev.com/ghpvc/?username=hulyak)
 
-[["hulyak-2020.stl"]]
 
 
 My name is Hulya, I'm a frontend web developer focusing on Javascript and using MERN stack.
