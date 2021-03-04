@@ -58,7 +58,6 @@ My name is Hulya, I'm a frontend web developer focusing on Javascript and using 
 
 ### Get in touch with me...
 
-<br/>
 <a href="https://twitter.com/hulyakarkya">
   <img alt="hulya | Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
 </a>
