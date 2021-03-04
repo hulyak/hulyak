@@ -58,7 +58,6 @@ My name is Hulya, I'm a frontend web developer focusing on Javascript and using 
 
 ### Get in touch with me...
 
-<p align="center">
 <br/>
 <a href="https://twitter.com/hulyakarkya">
   <img alt="hulya | Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
@@ -69,10 +68,7 @@ My name is Hulya, I'm a frontend web developer focusing on Javascript and using 
 <a href="mailto://hulyakarakayaa06@gmail.com">
   <img alt="mail me" width="35px" src="https://user-images.githubusercontent.com/57311842/109585261-06b49080-7ab8-11eb-95ef-5bf9d050c753.png" />
 </a>
-</p>
 
-
-<p align="center">
 <a href="https://www.buymeacoffee.com/hulya" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
-</p>
+
 
