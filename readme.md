@@ -5,7 +5,6 @@
 ![views](https://komarev.com/ghpvc/?username=hulyak)
 
 
-
 My name is Hulya, I'm a frontend web developer focusing on Javascript and using MERN stack.
 
 - 🔭 I’m currently working on something cool :wink:
@@ -64,7 +63,7 @@ My name is Hulya, I'm a frontend web developer focusing on Javascript and using 
 <a href="https://www.linkedin.com/in/hulya-karakaya/">
   <img alt="hulya's LinkedIn" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
 </a>
-<a href="mailto://hulyakarakayaa06@gmail.com">
+<a href="mailto:hulyakarakayaa06@gmail.com">
   <img alt="mail me" width="35px" src="https://user-images.githubusercontent.com/57311842/109585261-06b49080-7ab8-11eb-95ef-5bf9d050c753.png" />
 </a>
 
