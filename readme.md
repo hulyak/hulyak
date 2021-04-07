@@ -4,11 +4,10 @@
 
 ![views](https://komarev.com/ghpvc/?username=hulyak)
 
-
-My name is Hulya, I'm a frontend web developer focusing on Javascript and using MERN stack. 
+My name is Hulya, I'm a frontend web developer focusing on Javascript and using MERN stack.
 
 - 🔭 I’m currently working on something cool :wink:
-- 🌱 I have published my first online course [Node.js Getting Started](https://skl.sh/2Nrrj9g) and my slides [here](https://slides.com/hulyakarakaya/deck). 
+- 🌱 I have published my first online course [Node.js Getting Started](https://skl.sh/2Nrrj9g) and my slides [here](https://slides.com/hulyakarakaya/deck).
 - 💬 Ask me about anything related to Javascript/React/Express/Node
 - 📫 How to reach me: [@hulyakarkya](https://twitter.com/hulyakarkya)
 - 👩‍💻 Technical writer at [Hashnode](https://hulyakarakaya.hashnode.dev/) and [Dev.to](https://dev.to/hulyakarakaya)
@@ -55,6 +54,13 @@ My name is Hulya, I'm a frontend web developer focusing on Javascript and using 
 
 <hr>
 
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts](https://dev.to/hulyakarakaya)
+
 ### Get in touch with me...
 
 <a href="https://twitter.com/hulyakarkya">
@@ -68,5 +74,3 @@ My name is Hulya, I'm a frontend web developer focusing on Javascript and using 
 </a>
 
 <a href="https://www.buymeacoffee.com/hulya" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
-
-
