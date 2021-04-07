@@ -57,6 +57,11 @@ My name is Hulya, I'm a frontend web developer focusing on Javascript and using 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Free Computer Science Resources with Interview Prep and much more...](https://hulyakarakaya.hashnode.dev/free-computer-science-resources-with-interview-prep-and-much-more)
+- [Free Computer Science Resources with Interview Prep and much more...](https://dev.to/hulyakarakaya/free-computer-science-resources-with-interview-prep-and-much-more-en8)
+- [Learn Next.js For Free with These Resources](https://dev.to/hulyakarakaya/learn-next-js-for-free-with-these-resources-jfi)
+- [Learn Next.js For Free with These Resources](https://hulyakarakaya.hashnode.dev/learn-nextjs-for-free-with-these-resources)
+- [Ultimate React Resources](https://hulyakarakaya.hashnode.dev/ultimate-react-resources)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts](https://dev.to/hulyakarakaya)
