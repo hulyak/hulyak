@@ -57,11 +57,11 @@ My name is Hulya, I'm a frontend web developer focusing on Javascript and using 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Set Environment Variables in Next.js](https://dev.to/hulyakarakaya/how-to-set-environment-variables-in-next-js-3n3k)
 - [Free Computer Science Resources with Interview Prep and much more...](https://dev.to/hulyakarakaya/free-computer-science-resources-with-interview-prep-and-much-more-en8)
 - [Learn Next.js For Free with These Resources](https://dev.to/hulyakarakaya/learn-next-js-for-free-with-these-resources-jfi)
 - [Ultimate React Resources](https://dev.to/hulyakarakaya/ultimate-react-resources-obl)
 - [70+ Websites with Free Images/Videos and Tools for Your Projects](https://dev.to/hulyakarakaya/70-websites-with-free-images-videos-and-tools-for-your-projects-3ofc)
-- [Ultimate FREE Javascript Resources](https://dev.to/hulyakarakaya/ultimate-free-javascript-resources-2802)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts](https://dev.to/hulyakarakaya)
