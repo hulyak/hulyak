@@ -53,7 +53,7 @@ My name is Hulya, I'm a frontend web developer focusing on Javascript and using 
 <hr>
 <div>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=hulyak&show_icons=true&theme=radical" />
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hulyak&layout=compact&theme=dark" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hulyak&layout=compact&theme=radical" />
     
 </div>
 <hr>
