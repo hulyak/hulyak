@@ -1,9 +1,5 @@
 ### Hi there <a href="https://hulya.netlify.app/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-![Hulya's github stats](https://github-readme-stats.vercel.app/api?username=hulyak&show_icons=true&theme=radical)
-
-![views](https://komarev.com/ghpvc/?username=hulyak)
-
 My name is Hulya, I'm a frontend web developer focusing on Javascript and using MERN stack.
 
 - 🔭 I’m currently working on something cool :wink:
@@ -13,6 +9,8 @@ My name is Hulya, I'm a frontend web developer focusing on Javascript and using 
 - 👩‍💻 Technical writer at [Hashnode](https://hulyakarakaya.hashnode.dev/) and [Dev.to](https://dev.to/hulyakarakaya)
 - ✌🏻 Winner of [North America Facebook Community Challenge](https://developers.facebook.com/blog/post/2020/11/18/2020-developer-circles-community-challenge-regional-winners-announced/)
 - ⚡ Fun fact: I'm scared of 🐈
+
+![views](https://komarev.com/ghpvc/?username=hulyak)
 
 ### What I speak...
 
@@ -52,6 +50,12 @@ My name is Hulya, I'm a frontend web developer focusing on Javascript and using 
   <img src='https://img.stackshare.io/service/4202/Visual_Studio_Code_logo.png' width='32' title='Visual Studio Code'>
 </p>
 
+<hr>
+<div>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hulyak&show_icons=true&theme=radical" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hulyak&count_private=true&layout=compact&theme=dark" />
+    
+</div>
 <hr>
 
 ### 📕 Latest Blog Posts
