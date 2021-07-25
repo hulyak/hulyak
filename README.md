@@ -6,7 +6,7 @@ My name is Hulya, I'm a frontend web developer focusing on Javascript and using 
 - 🌱 I have published my first online course [Node.js Getting Started](https://skl.sh/2Nrrj9g) and my slides [here](https://slides.com/hulyakarakaya/deck).
 - 💬 Ask me about anything related to Javascript/React/Express/Node
 - 📫 How to reach me: [@hulyakarkya](https://twitter.com/hulyakarkya)
-- 👩‍💻 Technical writer at [Hashnode](https://hulyakarakaya.hashnode.dev/) and [Dev.to](https://dev.to/hulyakarakaya)
+- 👩‍💻 Technical writer at [LogRocket](https://blog.logrocket.com/author/hulyakarakaya/),[Hashnode](https://hulyakarakaya.hashnode.dev/) and [Dev.to](https://dev.to/hulyakarakaya)
 - ✌🏻 Winner of [North America Facebook Community Challenge](https://developers.facebook.com/blog/post/2020/11/18/2020-developer-circles-community-challenge-regional-winners-announced/)
 - ⚡ Fun fact: I'm scared of 🐈
 
