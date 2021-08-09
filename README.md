@@ -15,11 +15,11 @@ My name is Hulya, I'm a frontend web developer focusing on Javascript and using 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Managing DOM components with ReactDOM](https://blog.logrocket.com/managing-dom-components-reactdom/)
 - [How to create a context menu in React](https://blog.logrocket.com/how-to-create-a-context-menu-in-react/)
 - [How to fix regeneratorRuntime is not defined?](https://dev.to/hulyakarakaya/how-to-fix-regeneratorruntime-is-not-defined-doj)
 - [Everything you need in One Repo](https://dev.to/hulyakarakaya/everything-you-need-in-one-repo-o26)
 - [Job-Hunting Resources](https://dev.to/hulyakarakaya/job-hunting-resources-452)
-- [How to Set Environment Variables in Next.js](https://dev.to/hulyakarakaya/how-to-set-environment-variables-in-next-js-3n3k)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts](https://dev.to/hulyakarakaya)
