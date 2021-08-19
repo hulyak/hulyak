@@ -1,6 +1,9 @@
 ### Hi there <a href="https://hulya.netlify.app/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-My name is Hulya, I'm a frontend web developer focusing on Javascript and using MERN stack.
+My name is Hulya, I am a Javascript Developer focusing on frontend libraries such as React.js, making accessible websites, and utilizing Node.js and Express in the Backend. I have a passion for Web Accessibility, Cybersecurity, and Privacy. To grow my skills, I focus on building Fullstack applications through Pair Programming. I value working through collaboration and pair programming. I create user-friendly, efficient, accessible, and responsive websites.  
+
+I'm at the 28 Cohort of The Collab La working remotely with 3 other developers from around the world to create a “smart” shopping list app that learns your buying habits and helps you remember what you’re likely to need to buy on your next trip to the store. You can check out [pull requests](https://github.com/the-collab-lab/tcl-28-smart-shopping-list/pulls?q=is%3Apr+is%3Aclosed), [issues](https://github.com/the-collab-lab/tcl-28-smart-shopping-list/issues?q=is%3Aissue+is%3Aclosed) and [projects](https://github.com/the-collab-lab/tcl-28-smart-shopping-list/projects).
+
 
 - 🔭 I’m currently working on something cool :wink:
 - 🌱 I have published my first online course [Node.js Getting Started](https://skl.sh/2Nrrj9g) and my slides [here](https://slides.com/hulyakarakaya/deck).
@@ -35,44 +38,61 @@ My name is Hulya, I'm a frontend web developer focusing on Javascript and using 
 <a href="mailto:hulyakarakayaa06@gmail.com">
   <img alt="mail me" width="35px" src="https://user-images.githubusercontent.com/57311842/109585261-06b49080-7ab8-11eb-95ef-5bf9d050c753.png" />
 </a>
+<a href="https://blog.logrocket.com/author/hulyakarakaya">
+  <img alt="Log Rocket"  src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
+</a>
+<a href="https://dev.to/hulyakarakaya">
+  <img alt="Hashnode"  src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
+</a>
+<a href="https://hulyakarakaya.hashnode.dev/">
+  <img alt="Dev.to"  src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+</a>
+
 
 <a href="https://www.buymeacoffee.com/hulya" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
 
-### What I speak...
+### Technologies and Tools
 
 <p>
-  <img src='https://img.stackshare.io/service/1209/javascript.jpeg' width='32' title='JavaScript'>
-  <img src='https://img.stackshare.io/service/2538/kEpgHiC9.png' width='32' title='HTML'>
-  <img src='https://img.stackshare.io/service/6727/css.png' width='32' title='CSS'>
-  <img src='https://img.stackshare.io/service/993/pUBY5pVj.png' width='32' title='Python'>
+
+<img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' title='HTML5' />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" title="Javascript" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" title="Typescript" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python" />
+<img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" title="JSON" />
+<img src="https://img.shields.io/badge/Pug-E3C29B?style=for-the-badge&logo=pug&logoColor=black" title="Pug" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" title="MongoDB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" title="Node JS" />
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" title="NPM" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" title="Express JS" />
+<img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white" title="Socket.io" />
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" title="Sass" />
+<img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" title="Gatsby" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="React" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" title="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" title="Bootstrap" />
+<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" title="Styled Components" />
+<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" title="Material UI" />
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" title="Redux" />
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" title="React Router" />
+<img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" title="GraphQL" />
+<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" title="Next.JS" />
+<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" title="FIREBASE" />
+<img src="https://img.shields.io/badge/strapi-2e7eea?style=for-the-badge&logo=strapi&logoColor=white" title="Strapi" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Git" />
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" title="Google Cloud" />
+<img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" title="Azure" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" title="Github Actions" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" title=Vercel"" />
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" title="Notion" />
+<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" title="Trello" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" title="Figma" />
 </p>
 
-### Tools I'm Using...
-
-<p>
-  <img src='https://img.stackshare.io/service/1171/jCR2zNJV.png' width='32' title='Sass'>
-  <img src='https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg' width='32' title='JQuery'>
-  <img src='https://img.stackshare.io/service/133/3wgIDj3j.png' width='32' title='Heroku'>
-  <img src='https://img.stackshare.io/service/1161/vI0ZZlhZ_400x400.png' width='32' title='Socket.IO'>
-  <img src='https://img.stackshare.io/service/1163/hashtag.png' width='32' title='ExpressJS'>
-  <img src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' width='32' title='React'>
-  <img src='https://img.stackshare.io/service/1030/leaf-360x360.png' width='32' title='MongoDB'>
-  <img src='https://img.stackshare.io/service/1231/0TXzZU7W_400x400.jpg' width='32' title='Mongoose'>
-<!--   <img src='https://img.stackshare.io/service/683/sBsvBbjY.png' width='32' title='Github Pages'> -->
-  <img src='https://img.stackshare.io/service/64/cU74ahCn_400x400.jpg' width='32' title='Google Analytics'>
-  <img src='https://img.stackshare.io/service/3244/1_Mr1Fy00XjPGNf1Kkp_hWtw_2x.png' width='32' title='Font Awesome'>
-<!--   <img src='https://img.stackshare.io/service/2652/ZWREQYdH_400x400.jpg' width='32' title='Google Fonts'> -->
-  <img src='https://img.stackshare.io/service/1046/git.png' width='32' title='Git'>
-  <img src='https://img.stackshare.io/service/27/sBsvBbjY.png' width='32' title='Github'>
-  <img src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png' width='32' title='NPM'>
-  <img src='https://img.stackshare.io/service/7618/bHjpwZem_400x400.png' width='32' title='Vercel'>
-<!--   <img src='https://img.stackshare.io/service/2748/lV55uZMx.png' width='32' title='Netlify'> -->
-</p>
-
-<hr>
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hulyak&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="lindakovacs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hulyak&show_icons=true&theme=tokyonight&locale=en&layout=compact" /></p>
 
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=hulyak&show_icons=true&theme=tokyonight&locale=en" alt="hulyakarakaya" /></p>
 
