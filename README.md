@@ -2,7 +2,7 @@
 
 My name is Hulya, I am a Javascript Developer focusing on frontend libraries such as React.js, making accessible websites, and utilizing Node.js and Express in the Backend. I have a passion for Web Accessibility, Cybersecurity, and Privacy. To grow my skills, I focus on building Fullstack applications through Pair Programming. I value working through collaboration and pair programming. I create user-friendly, efficient, accessible, and responsive websites.  
 
-I'm at the 28 Cohort of The Collab La working remotely with 3 other developers from around the world to create a “smart” shopping list app that learns your buying habits and helps you remember what you’re likely to need to buy on your next trip to the store. You can check out [pull requests](https://github.com/the-collab-lab/tcl-28-smart-shopping-list/pulls?q=is%3Apr+is%3Aclosed), [issues](https://github.com/the-collab-lab/tcl-28-smart-shopping-list/issues?q=is%3Aissue+is%3Aclosed) and [projects](https://github.com/the-collab-lab/tcl-28-smart-shopping-list/projects).
+I'm at the 28 Cohort of The Collab Lab working remotely with 3 other developers from around the world to create a “smart” shopping list app that learns your buying habits and helps you remember what you’re likely to need to buy on your next trip to the store. You can check out [pull requests](https://github.com/the-collab-lab/tcl-28-smart-shopping-list/pulls?q=is%3Apr+is%3Aclosed), [issues](https://github.com/the-collab-lab/tcl-28-smart-shopping-list/issues?q=is%3Aissue+is%3Aclosed) and [projects](https://github.com/the-collab-lab/tcl-28-smart-shopping-list/projects).
 
 
 - 🔭 I’m currently working on something cool :wink:
