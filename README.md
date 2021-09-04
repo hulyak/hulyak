@@ -1,6 +1,9 @@
 ### Hi there <a href="https://hulya.netlify.app/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-My name is Hulya, I am a Javascript Developer focusing on frontend libraries such as React.js, making accessible websites, and utilizing Node.js and Express in the Backend. I have a passion for Web Accessibility, Cybersecurity, and Privacy. To grow my skills, I focus on building Fullstack applications through Pair Programming. I value working through collaboration and pair programming. I create user-friendly, efficient, accessible, and responsive websites.  
+I'm Hulya, a full-stack web engineer with proficiency in building fast, scalable, and optimized web applications using the most suitable tool. Proficient in Javascript, Node.js, and React, and a technical writer who comes from a teaching and sales background.
+
+My skills include quickly learning new skills, and programming languages, problem-solving, debugging, website optimization, pair programming, communication, and intense Googling. I have a passion for Open Source, Web Accessibility, Cybersecurity, and Privacy.
+
 
 I'm at the 28 Cohort of The Collab Lab working remotely with 3 other developers from around the world to create a “smart” shopping list app that learns your buying habits and helps you remember what you’re likely to need to buy on your next trip to the store. You can check out [pull requests](https://github.com/the-collab-lab/tcl-28-smart-shopping-list/pulls?q=is%3Apr+is%3Aclosed), [issues](https://github.com/the-collab-lab/tcl-28-smart-shopping-list/issues?q=is%3Aissue+is%3Aclosed) and [projects](https://github.com/the-collab-lab/tcl-28-smart-shopping-list/projects).
 
@@ -8,8 +11,10 @@ I'm at the 28 Cohort of The Collab Lab working remotely with 3 other developers 
 - 🔭 I’m currently working on something cool :wink:
 - 🌱 I have published my first online course [Node.js Getting Started](https://skl.sh/2Nrrj9g) and my slides [here](https://slides.com/hulyakarakaya/deck).
 - 💬 Ask me about anything related to Javascript/React/Express/Node
+- 🎗 Certified in Azure Data and Azure Fundamentals
+- 🏆 Certified in Cloud Engineering with Google Cloud
 - 📫 How to reach me: [@hulyakarkya](https://twitter.com/hulyakarkya)
-- 👩‍💻 Technical writer at [LogRocket](https://blog.logrocket.com/author/hulyakarakaya/), [Hashnode](https://hulyakarakaya.hashnode.dev/) and [Dev.to](https://dev.to/hulyakarakaya)
+- 👩‍💻 Technical writer on [LogRocket](https://blog.logrocket.com/author/hulyakarakaya/), [Hashnode](https://hulyakarakaya.hashnode.dev/) and [Dev.to](https://dev.to/hulyakarakaya)
 - ✌🏻 Winner of [North America Facebook Community Challenge](https://developers.facebook.com/blog/post/2020/11/18/2020-developer-circles-community-challenge-regional-winners-announced/)
 - ⚡ Fun fact: I'm scared of 🐈
 
