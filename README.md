@@ -11,8 +11,9 @@ I'm at the 28 Cohort of The Collab Lab working remotely with 3 other developers 
 - 🔭 I’m currently working on something cool :wink:
 - 🌱 I have published my first online course [Node.js Getting Started](https://skl.sh/2Nrrj9g) and my slides [here](https://slides.com/hulyakarakaya/deck).
 - 💬 Ask me about anything related to Javascript/React/Express/Node
-- 🎗 Certified in Azure Data and Azure Fundamentals
-- 🏆 Certified in Cloud Engineering with Google Cloud
+- 🎗 Certified in [Azure Data](https://www.credly.com/badges/81a0e067-9522-4c22-a62a-b0975298d948/public_url) and [Azure Fundamentals](https://www.credly.com/badges/c0324318-5bae-4728-a2a2-f5720242006f/public_url)
+- 🏆 Certified in [Cloud Engineering with Google Cloud](https://www.coursera.org/account/accomplishments/specialization/certificate/CSNCU56GVNZD)
+- 🎖 Completed a [Cybersecurity program](https://icmcp.memberclicks.net/assets/docs/Google_ICMCP_Press_Release_05-04-2021.pdf) by Google, ICMCP and Security Innovation.
 - 📫 How to reach me: [@hulyakarkya](https://twitter.com/hulyakarkya)
 - 👩‍💻 Technical writer on [LogRocket](https://blog.logrocket.com/author/hulyakarakaya/), [Hashnode](https://hulyakarakaya.hashnode.dev/) and [Dev.to](https://dev.to/hulyakarakaya)
 - ✌🏻 Winner of [North America Facebook Community Challenge](https://developers.facebook.com/blog/post/2020/11/18/2020-developer-circles-community-challenge-regional-winners-announced/)
