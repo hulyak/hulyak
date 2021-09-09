@@ -24,11 +24,11 @@ I'm at the 28 Cohort of The Collab Lab working remotely with 3 other developers 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to configure CSS Modules for Webpack](https://blog.logrocket.com/how-to-configure-css-modules-webpack/)
 - [How to build a responsive navbar in Tailwind CSS](https://blog.logrocket.com/how-to-build-responsive-navbar-tailwind-css/)
 - [Managing DOM components with ReactDOM](https://blog.logrocket.com/managing-dom-components-reactdom/)
 - [How to create a context menu in React](https://blog.logrocket.com/how-to-create-a-context-menu-in-react/)
 - [How to fix regeneratorRuntime is not defined?](https://dev.to/hulyakarakaya/how-to-fix-regeneratorruntime-is-not-defined-doj)
-- [Everything you need in One Repo](https://dev.to/hulyakarakaya/everything-you-need-in-one-repo-o26)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts](https://dev.to/hulyakarakaya)
