@@ -21,6 +21,9 @@ I'm at the 28 Cohort of The Collab Lab working remotely with 3 other developers 
 
 <img src="https://komarev.com/ghpvc/?username=hulyak&label=Profile%20views&color=0e75b6&style=flat" alt="hulyakarakaya" />
 
+
+---
+
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -43,6 +46,7 @@ I'm at the 28 Cohort of The Collab Lab working remotely with 3 other developers 
 <!--END_SECTION:activity-->
 
 ---
+
 ### Get in touch with me...
 
 <a href="https://twitter.com/hulyakarkya">
