@@ -5,7 +5,7 @@ I'm Hulya, a full-stack web engineer with proficiency in building fast, scalable
 My skills include quickly learning new skills, and programming languages, problem-solving, debugging, website optimization, pair programming, communication, and intense Googling. I have a passion for Open Source, Web Accessibility, Cybersecurity, and Privacy.
 
 
-I'm at the 28 Cohort of The Collab Lab working remotely with 3 other developers from around the world to create a “smart” shopping list app that learns your buying habits and helps you remember what you’re likely to need to buy on your next trip to the store. You can check out [pull requests](https://github.com/the-collab-lab/tcl-28-smart-shopping-list/pulls?q=is%3Apr+is%3Aclosed), [issues](https://github.com/the-collab-lab/tcl-28-smart-shopping-list/issues?q=is%3Aissue+is%3Aclosed) and [projects](https://github.com/the-collab-lab/tcl-28-smart-shopping-list/projects).
+I attended the 28 Cohort of The Collab Lab working remotely with 3 other developers from around the world to create a “smart” shopping list app that learns your buying habits and helps you remember what you’re likely to need to buy on your next trip to the store. You can check out [pull requests](https://github.com/the-collab-lab/tcl-28-smart-shopping-list/pulls?q=is%3Apr+is%3Aclosed), [issues](https://github.com/the-collab-lab/tcl-28-smart-shopping-list/issues?q=is%3Aissue+is%3Aclosed) and [projects](https://github.com/the-collab-lab/tcl-28-smart-shopping-list/projects).
 
 
 - 🔭 I’m currently working on something cool :wink:
