@@ -33,6 +33,16 @@ I'm at the 28 Cohort of The Collab Lab working remotely with 3 other developers 
 
 ➡️ [more blog posts](https://dev.to/hulyakarakaya)
 
+
+---
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+---
 ### Get in touch with me...
 
 <a href="https://twitter.com/hulyakarkya">
