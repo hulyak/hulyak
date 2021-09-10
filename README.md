@@ -41,8 +41,8 @@ I'm at the 28 Cohort of The Collab Lab working remotely with 3 other developers 
 
 ### :zap: Recent Activity
 
-<!-- START_SECTION:activity -->
-<!-- END_SECTION:activity -->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
