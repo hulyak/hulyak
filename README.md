@@ -42,11 +42,11 @@ I'm at the 28 Cohort of The Collab Lab working remotely with 3 other developers 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#65](https://github.com/the-collab-lab/tcl-28-smart-shopping-list/pull/65) in [the-collab-lab/tcl-28-smart-shopping-list](https://github.com/the-collab-lab/tcl-28-smart-shopping-list)
-2. 🎉 Merged PR [#37](https://github.com/hulyak/web_project_4/pull/37) in [hulyak/web_project_4](https://github.com/hulyak/web_project_4)
-3. 💪 Opened PR [#37](https://github.com/hulyak/web_project_4/pull/37) in [hulyak/web_project_4](https://github.com/hulyak/web_project_4)
-4. 🎉 Merged PR [#36](https://github.com/hulyak/web_project_4/pull/36) in [hulyak/web_project_4](https://github.com/hulyak/web_project_4)
-5. 💪 Opened PR [#36](https://github.com/hulyak/web_project_4/pull/36) in [hulyak/web_project_4](https://github.com/hulyak/web_project_4)
+1. 🗣 Commented on [#65](https://github.com/the-collab-lab/tcl-28-smart-shopping-list/issues/65) in [the-collab-lab/tcl-28-smart-shopping-list](https://github.com/the-collab-lab/tcl-28-smart-shopping-list)
+2. 💪 Opened PR [#65](https://github.com/the-collab-lab/tcl-28-smart-shopping-list/pull/65) in [the-collab-lab/tcl-28-smart-shopping-list](https://github.com/the-collab-lab/tcl-28-smart-shopping-list)
+3. 🎉 Merged PR [#37](https://github.com/hulyak/web_project_4/pull/37) in [hulyak/web_project_4](https://github.com/hulyak/web_project_4)
+4. 💪 Opened PR [#37](https://github.com/hulyak/web_project_4/pull/37) in [hulyak/web_project_4](https://github.com/hulyak/web_project_4)
+5. 🎉 Merged PR [#36](https://github.com/hulyak/web_project_4/pull/36) in [hulyak/web_project_4](https://github.com/hulyak/web_project_4)
 <!--END_SECTION:activity-->
 
 ---
