@@ -42,11 +42,11 @@ I attended the 28 Cohort of The Collab Lab working remotely with 3 other develop
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/hulyak/a-to-z-coding-resources/pull/1) in [hulyak/a-to-z-coding-resources](https://github.com/hulyak/a-to-z-coding-resources)
-2. 💪 Opened PR [#1](https://github.com/hulyak/a-to-z-coding-resources/pull/1) in [hulyak/a-to-z-coding-resources](https://github.com/hulyak/a-to-z-coding-resources)
-3. 🗣 Commented on [#65](https://github.com/the-collab-lab/tcl-28-smart-shopping-list/issues/65) in [the-collab-lab/tcl-28-smart-shopping-list](https://github.com/the-collab-lab/tcl-28-smart-shopping-list)
-4. 💪 Opened PR [#65](https://github.com/the-collab-lab/tcl-28-smart-shopping-list/pull/65) in [the-collab-lab/tcl-28-smart-shopping-list](https://github.com/the-collab-lab/tcl-28-smart-shopping-list)
-5. 🎉 Merged PR [#37](https://github.com/hulyak/web_project_4/pull/37) in [hulyak/web_project_4](https://github.com/hulyak/web_project_4)
+1. 🎉 Merged PR [#65](https://github.com/the-collab-lab/tcl-28-smart-shopping-list/pull/65) in [the-collab-lab/tcl-28-smart-shopping-list](https://github.com/the-collab-lab/tcl-28-smart-shopping-list)
+2. ❗️ Closed issue [#51](https://github.com/the-collab-lab/tcl-28-smart-shopping-list/issues/51) in [the-collab-lab/tcl-28-smart-shopping-list](https://github.com/the-collab-lab/tcl-28-smart-shopping-list)
+3. 🎉 Merged PR [#1](https://github.com/hulyak/a-to-z-coding-resources/pull/1) in [hulyak/a-to-z-coding-resources](https://github.com/hulyak/a-to-z-coding-resources)
+4. 💪 Opened PR [#1](https://github.com/hulyak/a-to-z-coding-resources/pull/1) in [hulyak/a-to-z-coding-resources](https://github.com/hulyak/a-to-z-coding-resources)
+5. 🗣 Commented on [#65](https://github.com/the-collab-lab/tcl-28-smart-shopping-list/issues/65) in [the-collab-lab/tcl-28-smart-shopping-list](https://github.com/the-collab-lab/tcl-28-smart-shopping-list)
 <!--END_SECTION:activity-->
 
 ---
