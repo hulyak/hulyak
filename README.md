@@ -42,8 +42,8 @@ I attended the 28 Cohort of The Collab Lab working remotely with 3 other develop
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/Muddoo/All_Correct/pull/2) in [Muddoo/All_Correct](https://github.com/Muddoo/All_Correct)
-2. ❗️ Closed issue [#51](https://github.com/the-collab-lab/tcl-28-smart-shopping-list/issues/51) in [the-collab-lab/tcl-28-smart-shopping-list](https://github.com/the-collab-lab/tcl-28-smart-shopping-list)
+1. 🗣 Commented on [#2](https://github.com/Muddoo/All_Correct/issues/2) in [Muddoo/All_Correct](https://github.com/Muddoo/All_Correct)
+2. 💪 Opened PR [#2](https://github.com/Muddoo/All_Correct/pull/2) in [Muddoo/All_Correct](https://github.com/Muddoo/All_Correct)
 3. 🎉 Merged PR [#1](https://github.com/hulyak/a-to-z-coding-resources/pull/1) in [hulyak/a-to-z-coding-resources](https://github.com/hulyak/a-to-z-coding-resources)
 4. 💪 Opened PR [#1](https://github.com/hulyak/a-to-z-coding-resources/pull/1) in [hulyak/a-to-z-coding-resources](https://github.com/hulyak/a-to-z-coding-resources)
 5. 🗣 Commented on [#65](https://github.com/the-collab-lab/tcl-28-smart-shopping-list/issues/65) in [the-collab-lab/tcl-28-smart-shopping-list](https://github.com/the-collab-lab/tcl-28-smart-shopping-list)
