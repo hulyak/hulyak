@@ -42,11 +42,11 @@ I attended the 28 Cohort of The Collab Lab working remotely with 3 other develop
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/Muddoo/All_Correct/issues/9) in [Muddoo/All_Correct](https://github.com/Muddoo/All_Correct)
-2. 🗣 Commented on [#10](https://github.com/Muddoo/All_Correct/issues/10) in [Muddoo/All_Correct](https://github.com/Muddoo/All_Correct)
-3. 💪 Opened PR [#6](https://github.com/Muddoo/All_Correct/pull/6) in [Muddoo/All_Correct](https://github.com/Muddoo/All_Correct)
-4. ❌ Closed PR [#2](https://github.com/Muddoo/All_Correct/pull/2) in [Muddoo/All_Correct](https://github.com/Muddoo/All_Correct)
-5. 🗣 Commented on [#2](https://github.com/Muddoo/All_Correct/issues/2) in [Muddoo/All_Correct](https://github.com/Muddoo/All_Correct)
+1. 💪 Opened PR [#15](https://github.com/Muddoo/All_Correct/pull/15) in [Muddoo/All_Correct](https://github.com/Muddoo/All_Correct)
+2. 🗣 Commented on [#9](https://github.com/Muddoo/All_Correct/issues/9) in [Muddoo/All_Correct](https://github.com/Muddoo/All_Correct)
+3. 🗣 Commented on [#10](https://github.com/Muddoo/All_Correct/issues/10) in [Muddoo/All_Correct](https://github.com/Muddoo/All_Correct)
+4. 💪 Opened PR [#6](https://github.com/Muddoo/All_Correct/pull/6) in [Muddoo/All_Correct](https://github.com/Muddoo/All_Correct)
+5. ❌ Closed PR [#2](https://github.com/Muddoo/All_Correct/pull/2) in [Muddoo/All_Correct](https://github.com/Muddoo/All_Correct)
 <!--END_SECTION:activity-->
 
 ---
