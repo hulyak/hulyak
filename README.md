@@ -27,11 +27,11 @@ I attended the 28 Cohort of The Collab Lab working remotely with 3 other develop
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [One more PR for Hactoberfest](https://dev.to/hulyakarakaya/one-more-pr-for-hactoberfest-5gkp)
 - [Manage Node.js versions using asdf](https://blog.logrocket.com/manage-node-js-versions-using-asdf/)
 - [How to configure CSS Modules for webpack](https://blog.logrocket.com/how-to-configure-css-modules-webpack/)
 - [How to build a responsive navbar in Tailwind CSS](https://blog.logrocket.com/how-to-build-responsive-navbar-tailwind-css/)
 - [Managing DOM components with ReactDOM](https://blog.logrocket.com/managing-dom-components-reactdom/)
-- [How to create a context menu in React](https://blog.logrocket.com/how-to-create-a-context-menu-in-react/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts](https://dev.to/hulyakarakaya)
