@@ -42,11 +42,11 @@ I attended the 28 Cohort of The Collab Lab working remotely with 3 other develop
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/hulyak/a-to-z-coding-resources/pull/15) in [hulyak/a-to-z-coding-resources](https://github.com/hulyak/a-to-z-coding-resources)
-2. 🗣 Commented on [#15](https://github.com/hulyak/a-to-z-coding-resources/issues/15) in [hulyak/a-to-z-coding-resources](https://github.com/hulyak/a-to-z-coding-resources)
-3. 🎉 Merged PR [#13](https://github.com/hulyak/a-to-z-coding-resources/pull/13) in [hulyak/a-to-z-coding-resources](https://github.com/hulyak/a-to-z-coding-resources)
-4. 🎉 Merged PR [#12](https://github.com/hulyak/a-to-z-coding-resources/pull/12) in [hulyak/a-to-z-coding-resources](https://github.com/hulyak/a-to-z-coding-resources)
-5. 🎉 Merged PR [#11](https://github.com/hulyak/a-to-z-coding-resources/pull/11) in [hulyak/a-to-z-coding-resources](https://github.com/hulyak/a-to-z-coding-resources)
+1. 🗣 Commented on [#1](https://github.com/sayus2884/All_Correct/issues/1) in [sayus2884/All_Correct](https://github.com/sayus2884/All_Correct)
+2. 💪 Opened PR [#4](https://github.com/sayus2884/All_Correct/pull/4) in [sayus2884/All_Correct](https://github.com/sayus2884/All_Correct)
+3. 🎉 Merged PR [#15](https://github.com/hulyak/a-to-z-coding-resources/pull/15) in [hulyak/a-to-z-coding-resources](https://github.com/hulyak/a-to-z-coding-resources)
+4. 🗣 Commented on [#15](https://github.com/hulyak/a-to-z-coding-resources/issues/15) in [hulyak/a-to-z-coding-resources](https://github.com/hulyak/a-to-z-coding-resources)
+5. 🎉 Merged PR [#13](https://github.com/hulyak/a-to-z-coding-resources/pull/13) in [hulyak/a-to-z-coding-resources](https://github.com/hulyak/a-to-z-coding-resources)
 <!--END_SECTION:activity-->
 
 ---
