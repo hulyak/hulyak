@@ -42,11 +42,11 @@ I attended the 28 Cohort of The Collab Lab working remotely with 3 other develop
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/hulyak/a-to-z-coding-resources/pull/24) in [hulyak/a-to-z-coding-resources](https://github.com/hulyak/a-to-z-coding-resources)
-2. 🎉 Merged PR [#23](https://github.com/hulyak/a-to-z-coding-resources/pull/23) in [hulyak/a-to-z-coding-resources](https://github.com/hulyak/a-to-z-coding-resources)
-3. 🗣 Commented on [#22](https://github.com/hulyak/a-to-z-coding-resources/issues/22) in [hulyak/a-to-z-coding-resources](https://github.com/hulyak/a-to-z-coding-resources)
-4. 🎉 Merged PR [#21](https://github.com/hulyak/a-to-z-coding-resources/pull/21) in [hulyak/a-to-z-coding-resources](https://github.com/hulyak/a-to-z-coding-resources)
-5. 🎉 Merged PR [#20](https://github.com/hulyak/a-to-z-coding-resources/pull/20) in [hulyak/a-to-z-coding-resources](https://github.com/hulyak/a-to-z-coding-resources)
+1. 🗣 Commented on [#25](https://github.com/hulyak/a-to-z-coding-resources/issues/25) in [hulyak/a-to-z-coding-resources](https://github.com/hulyak/a-to-z-coding-resources)
+2. 🎉 Merged PR [#26](https://github.com/hulyak/a-to-z-coding-resources/pull/26) in [hulyak/a-to-z-coding-resources](https://github.com/hulyak/a-to-z-coding-resources)
+3. 🗣 Commented on [#26](https://github.com/hulyak/a-to-z-coding-resources/issues/26) in [hulyak/a-to-z-coding-resources](https://github.com/hulyak/a-to-z-coding-resources)
+4. 🎉 Merged PR [#24](https://github.com/hulyak/a-to-z-coding-resources/pull/24) in [hulyak/a-to-z-coding-resources](https://github.com/hulyak/a-to-z-coding-resources)
+5. 🎉 Merged PR [#23](https://github.com/hulyak/a-to-z-coding-resources/pull/23) in [hulyak/a-to-z-coding-resources](https://github.com/hulyak/a-to-z-coding-resources)
 <!--END_SECTION:activity-->
 
 ---
