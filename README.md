@@ -42,8 +42,8 @@ I'm Hulya, a full-stack web engineer with proficiency in building fast, scalable
 1. 🗣 Commented on [#1013](https://github.com/stephanrauh/ngx-extended-pdf-viewer/issues/1013) in [stephanrauh/ngx-extended-pdf-viewer](https://github.com/stephanrauh/ngx-extended-pdf-viewer)
 2. 🗣 Commented on [#1013](https://github.com/stephanrauh/ngx-extended-pdf-viewer/issues/1013) in [stephanrauh/ngx-extended-pdf-viewer](https://github.com/stephanrauh/ngx-extended-pdf-viewer)
 3. 🗣 Commented on [#1013](https://github.com/stephanrauh/ngx-extended-pdf-viewer/issues/1013) in [stephanrauh/ngx-extended-pdf-viewer](https://github.com/stephanrauh/ngx-extended-pdf-viewer)
-4. 🗣 Commented on [#3875](https://github.com/docker/compose/issues/3875) in [docker/compose](https://github.com/docker/compose)
-5. ❗️ Opened issue [#29494](https://github.com/mui-org/material-ui/issues/29494) in [mui-org/material-ui](https://github.com/mui-org/material-ui)
+4. 🗣 Commented on [#1013](https://github.com/stephanrauh/ngx-extended-pdf-viewer/issues/1013) in [stephanrauh/ngx-extended-pdf-viewer](https://github.com/stephanrauh/ngx-extended-pdf-viewer)
+5. 🗣 Commented on [#1013](https://github.com/stephanrauh/ngx-extended-pdf-viewer/issues/1013) in [stephanrauh/ngx-extended-pdf-viewer](https://github.com/stephanrauh/ngx-extended-pdf-viewer)
 <!--END_SECTION:activity-->
 
 ---
