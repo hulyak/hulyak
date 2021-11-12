@@ -54,7 +54,7 @@ I'm Hulya, a full-stack web engineer with proficiency in building fast, scalable
   <img alt="hulya | Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
 </a>
 <a href="https://www.linkedin.com/in/hulya-karakaya/">
-  <img alt="hulya's LinkedIn" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
+  <img alt="hulya's LinkedIn" width="35px" src="https://user-images.githubusercontent.com/57311842/141406289-fd3463fa-ab61-4ae0-9575-f63c00a63d5a.png" />
 </a>
 <a href="mailto:hulyakarakayaa06@gmail.com">
   <img alt="mail me" width="35px" src="https://user-images.githubusercontent.com/57311842/109585261-06b49080-7ab8-11eb-95ef-5bf9d050c753.png" />
