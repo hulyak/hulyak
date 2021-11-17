@@ -51,7 +51,7 @@ I'm Hulya, a full-stack web engineer with proficiency in building fast, scalable
 ### Get in touch with me...
 
 <a href="https://twitter.com/hulyakarkya">
-  <img alt="hulya | Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
+  <img alt="Twitter" width="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/hulya-karakaya/">
   <img alt="hulya's LinkedIn" width="35px" src="https://user-images.githubusercontent.com/57311842/141406289-fd3463fa-ab61-4ae0-9575-f63c00a63d5a.png" />
@@ -60,7 +60,7 @@ I'm Hulya, a full-stack web engineer with proficiency in building fast, scalable
   <img alt="mail me" width="35px" src="https://user-images.githubusercontent.com/57311842/109585261-06b49080-7ab8-11eb-95ef-5bf9d050c753.png" />
 </a>
 <a href="https://blog.logrocket.com/author/hulyakarakaya">
-  <img alt="Log Rocket"  src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
+  <img alt="LogRocket"  src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
 </a>
 <a href="https://dev.to/hulyakarakaya">
   <img alt="Hashnode"  src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
