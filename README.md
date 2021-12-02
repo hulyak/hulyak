@@ -111,8 +111,8 @@ I'm Hulya, a full-stack web engineer with proficiency in building fast, scalable
   <a href="https://github.com/saadfareed"><span>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hulyak&count_private=true&show_icons=true&theme=dracula&include_all_commits=true" />
     <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hulyak&theme=dracula" />
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hulyak&theme=dracula" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hulyak&theme=dracula" alt="hulyakarakaya" />
+    <img height="180em" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hulyak&theme=dracula" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hulyak&theme=dracula" alt="hulyakarakaya" />
     </span>
   </a>
 </p>
