@@ -48,29 +48,22 @@ I'm Hulya, a full-stack web engineer with proficiency in building fast, scalable
 
 ---
 
-### Get in touch with me...
+<h2 align="center"> Get in touch with me...</h2>
+<p align="center">
+<a href="https://codepen.io/hulyak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="Hulya" height="30" width="40" /></a>
+<a href="https://dev.to/hulyakarakaya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Hulya" height="30" width="40" /></a>
+<a href="https://twitter.com/hulyakarkya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Hulya" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hulya-karakaya/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Hulya" height="30" width="40" /></a>
+ <a href="mailto:hulyakarakayaa06@gmail.com"><img align="center" alt="mail me" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="30" width="40"  /></a>
+<a href="https://blog.logrocket.com/author/hulyakarakaya"><img alt="LogRocket" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg" height="30" width="40" align="center" /></a>
 
-<a href="https://twitter.com/hulyakarkya">
-  <img alt="Twitter" width="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/hulya-karakaya/">
-  <img alt="hulya's LinkedIn" width="35px" src="https://user-images.githubusercontent.com/57311842/141406289-fd3463fa-ab61-4ae0-9575-f63c00a63d5a.png" />
-</a>
-<a href="mailto:hulyakarakayaa06@gmail.com">
-  <img alt="mail me" width="35px" src="https://user-images.githubusercontent.com/57311842/109585261-06b49080-7ab8-11eb-95ef-5bf9d050c753.png" />
-</a>
-<a href="https://blog.logrocket.com/author/hulyakarakaya">
-  <img alt="LogRocket"  src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
-</a>
-<a href="https://dev.to/hulyakarakaya">
-  <img alt="Hashnode"  src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
-</a>
-<a href="https://hulyakarakaya.hashnode.dev/">
-  <img alt="Dev.to"  src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
-</a>
+</p>
+<br>
 
 
-<a href="https://www.buymeacoffee.com/hulya" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
+<h2 align="center"> Contribution Graph: </h2>
+
+[![Hulya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hulyak&theme=xcode)](https://github.com/saadfareed)
 
 ### Technologies and Tools
 
@@ -112,14 +105,19 @@ I'm Hulya, a full-stack web engineer with proficiency in building fast, scalable
 </p>
 
 
+<h2 align="center"><i>⚙ GitHub Analytics:</i></h2>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hulyak&show_icons=true&theme=tokyonight&locale=en&layout=compact" /></p>
+<p align="center">
+  <a href="https://github.com/saadfareed"><span>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hulyak&count_private=true&show_icons=true&theme=dracula&include_all_commits=true" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hulyak&theme=dracula" />
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hulyak&theme=dracula" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hulyak&theme=dracula" alt="hulyakarakaya" />
+    </span>
+  </a>
+</p>
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=hulyak&show_icons=true&theme=tokyonight&locale=en" alt="hulyakarakaya" /></p>
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hulyak&&theme=tokyonight" alt="hulyakarakaya" /></p>
-
-
+<h2 align="center">🏆 GitHub Profile Trophy:</h2>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hulyak&theme=onedark&row=1" alt="hulyakarakaya" /></a> </p>
 <hr>
 
