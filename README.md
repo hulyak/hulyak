@@ -110,14 +110,17 @@ I'm Hulya, a full-stack web engineer with proficiency in building fast, scalable
 <h2 align="center"><i>⚙ GitHub Analytics:</i></h2>
 
 <p align="center">
-  <a href="https://github.com/saadfareed"><span>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hulyak&count_private=true&show_icons=true&theme=dracula&include_all_commits=true" />
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hulyak&theme=dracula" />
-    <img height="180em" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hulyak&theme=dracula" />
+  <a href="https://github.com/hulyak"><span>
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hulyak&theme=dracula" alt="hulyakarakaya" />
+     <img height="180em" src="https://raw.githubusercontent.com/hulyak/hulyak/master/profile-summary-card-output/dracula/3-stats.svg" />
+    <img height="180em" src="https://raw.githubusercontent.com/hulyak/hulyak/master/profile-summary-card-output/dracula/0-profile-details.svg" />
+    <img height="180em" src="https://raw.githubusercontent.com/hulyak/hulyak/master/profile-summary-card-output/dracula/1-repos-per-language.svg" />
     </span>
   </a>
 </p>
+
+
+
 
 <h2 align="center">🏆 GitHub Profile Trophy:</h2>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hulyak&theme=onedark&row=1" alt="hulyakarakaya" /></a> </p>
