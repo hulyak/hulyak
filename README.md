@@ -31,8 +31,13 @@ I'm Hulya, a full-stack web engineer with proficiency in building fast, scalable
 - [How to build a responsive navbar in Tailwind CSS](https://blog.logrocket.com/how-to-build-responsive-navbar-tailwind-css/)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts](https://dev.to/hulyakarakaya)
 
+#### 📃 PDF Related
+
+- [How to Build an Angular PDF Viewer with PDF.js](https://pspdfkit.com/blog/2021/how-to-build-an-angular-pdf-viewer-with-pdfjs/)
+- [How to Build a Vue.js PDF Viewer with PDF.js](https://pspdfkit.com/blog/2021/how-to-build-a-vuejs-pdf-viewer-with-pdfjs/)
+
+➡️ [more blog posts](https://dev.to/hulyakarakaya)
 
 ---
 
