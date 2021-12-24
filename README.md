@@ -68,9 +68,6 @@ I'm Hulya, a full-stack web engineer with proficiency in building fast, scalable
 <br>
 
 
-<h2 align="center"> Contribution Graph: </h2>
-
-[![Hulya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hulyak&theme=xcode)](https://github.com/hulyak)
 
 ### Technologies and Tools
 
