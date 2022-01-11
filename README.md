@@ -44,10 +44,10 @@ I'm Hulya, a full-stack web engineer with proficiency in building fast, scalable
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#10173](https://github.com/nuxt/nuxt.js/issues/10173) in [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js)
-2. 🎉 Merged PR [#1](https://github.com/hulyak/nuxt-example/pull/1) in [hulyak/nuxt-example](https://github.com/hulyak/nuxt-example)
-3. ❗️ Opened issue [#10173](https://github.com/nuxt/nuxt.js/issues/10173) in [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js)
-4. 🗣 Commented on [#1013](https://github.com/stephanrauh/ngx-extended-pdf-viewer/issues/1013) in [stephanrauh/ngx-extended-pdf-viewer](https://github.com/stephanrauh/ngx-extended-pdf-viewer)
+1. 💪 Opened PR [#1](https://github.com/hulyak/news-explorer-frontend/pull/1) in [hulyak/news-explorer-frontend](https://github.com/hulyak/news-explorer-frontend)
+2. ❗️ Closed issue [#10173](https://github.com/nuxt/nuxt.js/issues/10173) in [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js)
+3. 🎉 Merged PR [#1](https://github.com/hulyak/nuxt-example/pull/1) in [hulyak/nuxt-example](https://github.com/hulyak/nuxt-example)
+4. ❗️ Opened issue [#10173](https://github.com/nuxt/nuxt.js/issues/10173) in [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js)
 5. 🗣 Commented on [#1013](https://github.com/stephanrauh/ngx-extended-pdf-viewer/issues/1013) in [stephanrauh/ngx-extended-pdf-viewer](https://github.com/stephanrauh/ngx-extended-pdf-viewer)
 <!--END_SECTION:activity-->
 
