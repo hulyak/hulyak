@@ -25,10 +25,10 @@ I'm Hulya, a full-stack web engineer with proficiency in building fast, scalable
 
 <!-- BLOG-POST-LIST:START -->
 - [Comparing top Node.js frameworks for frontend developers](https://blog.logrocket.com/comparing-top-node-js-frameworks-frontend-developers/)
+- [One more PR for Hactoberfest](https://dev.to/hulyakarakaya/one-more-pr-for-hactoberfest-5gkp)
 - [Manage Node.js versions using asdf](https://blog.logrocket.com/manage-node-js-versions-using-asdf/)
 - [How to configure CSS Modules for webpack](https://blog.logrocket.com/how-to-configure-css-modules-webpack/)
 - [Building a responsive navbar in Tailwind CSS](https://blog.logrocket.com/building-responsive-navbar-tailwind-css/)
-- [Managing DOM components with ReactDOM](https://blog.logrocket.com/managing-dom-components-reactdom/)
 <!-- BLOG-POST-LIST:END -->
 
 
