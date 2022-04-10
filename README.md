@@ -47,11 +47,11 @@ I'm Hulya, a full-stack web engineer with proficiency in building fast, scalable
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#372](https://github.com/google/season-of-docs/pull/372) in [google/season-of-docs](https://github.com/google/season-of-docs)
-2. ❗️ Closed issue [#10173](https://github.com/nuxt/nuxt.js/issues/10173) in [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js)
-3. 🎉 Merged PR [#1](https://github.com/hulyak/nuxt-example/pull/1) in [hulyak/nuxt-example](https://github.com/hulyak/nuxt-example)
-4. ❗️ Opened issue [#10173](https://github.com/nuxt/nuxt.js/issues/10173) in [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js)
-5. 🗣 Commented on [#1013](https://github.com/stephanrauh/ngx-extended-pdf-viewer/issues/1013) in [stephanrauh/ngx-extended-pdf-viewer](https://github.com/stephanrauh/ngx-extended-pdf-viewer)
+1. 🎉 Merged PR [#39](https://github.com/hulyak/a-to-z-coding-resources/pull/39) in [hulyak/a-to-z-coding-resources](https://github.com/hulyak/a-to-z-coding-resources)
+2. 🎉 Merged PR [#38](https://github.com/hulyak/a-to-z-coding-resources/pull/38) in [hulyak/a-to-z-coding-resources](https://github.com/hulyak/a-to-z-coding-resources)
+3. 🎉 Merged PR [#37](https://github.com/hulyak/a-to-z-coding-resources/pull/37) in [hulyak/a-to-z-coding-resources](https://github.com/hulyak/a-to-z-coding-resources)
+4. 🎉 Merged PR [#36](https://github.com/hulyak/a-to-z-coding-resources/pull/36) in [hulyak/a-to-z-coding-resources](https://github.com/hulyak/a-to-z-coding-resources)
+5. 🎉 Merged PR [#35](https://github.com/hulyak/a-to-z-coding-resources/pull/35) in [hulyak/a-to-z-coding-resources](https://github.com/hulyak/a-to-z-coding-resources)
 <!--END_SECTION:activity-->
 
 ---
