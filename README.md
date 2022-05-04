@@ -65,8 +65,6 @@ I'm Hulya, a full-stack web engineer with proficiency in building fast, scalable
  <a href="mailto:hulyakarakayaa06@gmail.com"><img align="center" alt="mail me" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="30" width="40"  /></a>
 <a href="https://blog.logrocket.com/author/hulyakarakaya"><img alt="LogRocket" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg" height="30" width="40" align="center" /></a>
 <a href="https://hulyakarakaya.hashnode.dev/"><img alt="Hashnode" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg" height="30" width="40" align="center" /></a>
- 
-
 </p>
 <br>
 
@@ -118,7 +116,6 @@ I'm Hulya, a full-stack web engineer with proficiency in building fast, scalable
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hulyak&theme=dracula" alt="hulyakarakaya" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hulyak&show_icons=true&theme=dracula&locale=en" alt="hulya" />
 <!--     <img height="180em" src="https://raw.githubusercontent.com/hulyak/hulyak/master/profile-summary-card-output/dracula/1-repos-per-language.svg" /> -->
-    </span>
 </p>
 
 
