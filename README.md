@@ -47,11 +47,11 @@ I'm Hulya, a full-stack web engineer with proficiency in building fast, scalable
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#24](https://github.com/hulyak/authentication-whisperapp/pull/24) in [hulyak/authentication-whisperapp](https://github.com/hulyak/authentication-whisperapp)
-2. 💪 Opened PR [#16](https://github.com/hulyak/todolist/pull/16) in [hulyak/todolist](https://github.com/hulyak/todolist)
-3. 💪 Opened PR [#35](https://github.com/hulyak/keeper-app/pull/35) in [hulyak/keeper-app](https://github.com/hulyak/keeper-app)
-4. 💪 Opened PR [#21](https://github.com/hulyak/jammming-spotify/pull/21) in [hulyak/jammming-spotify](https://github.com/hulyak/jammming-spotify)
-5. 🎉 Merged PR [#39](https://github.com/hulyak/a-to-z-coding-resources/pull/39) in [hulyak/a-to-z-coding-resources](https://github.com/hulyak/a-to-z-coding-resources)
+1. 🎉 Merged PR [#40](https://github.com/hulyak/a-to-z-coding-resources/pull/40) in [hulyak/a-to-z-coding-resources](https://github.com/hulyak/a-to-z-coding-resources)
+2. 🗣 Commented on [#40](https://github.com/hulyak/a-to-z-coding-resources/issues/40) in [hulyak/a-to-z-coding-resources](https://github.com/hulyak/a-to-z-coding-resources)
+3. 💪 Opened PR [#24](https://github.com/hulyak/authentication-whisperapp/pull/24) in [hulyak/authentication-whisperapp](https://github.com/hulyak/authentication-whisperapp)
+4. 💪 Opened PR [#16](https://github.com/hulyak/todolist/pull/16) in [hulyak/todolist](https://github.com/hulyak/todolist)
+5. 💪 Opened PR [#35](https://github.com/hulyak/keeper-app/pull/35) in [hulyak/keeper-app](https://github.com/hulyak/keeper-app)
 <!--END_SECTION:activity-->
 
 ---
