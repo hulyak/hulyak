@@ -47,11 +47,11 @@ I'm Hulya, a full-stack web engineer with proficiency in building fast, scalable
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#41](https://github.com/hulyak/a-to-z-coding-resources/pull/41) in [hulyak/a-to-z-coding-resources](https://github.com/hulyak/a-to-z-coding-resources)
-2. 🗣 Commented on [#41](https://github.com/hulyak/a-to-z-coding-resources/issues/41) in [hulyak/a-to-z-coding-resources](https://github.com/hulyak/a-to-z-coding-resources)
-3. 🎉 Merged PR [#40](https://github.com/hulyak/a-to-z-coding-resources/pull/40) in [hulyak/a-to-z-coding-resources](https://github.com/hulyak/a-to-z-coding-resources)
-4. 🗣 Commented on [#40](https://github.com/hulyak/a-to-z-coding-resources/issues/40) in [hulyak/a-to-z-coding-resources](https://github.com/hulyak/a-to-z-coding-resources)
-5. 💪 Opened PR [#24](https://github.com/hulyak/authentication-whisperapp/pull/24) in [hulyak/authentication-whisperapp](https://github.com/hulyak/authentication-whisperapp)
+1. 💪 Opened PR [#27](https://github.com/hulyak/gatsby-blog/pull/27) in [hulyak/gatsby-blog](https://github.com/hulyak/gatsby-blog)
+2. 🎉 Merged PR [#41](https://github.com/hulyak/a-to-z-coding-resources/pull/41) in [hulyak/a-to-z-coding-resources](https://github.com/hulyak/a-to-z-coding-resources)
+3. 🗣 Commented on [#41](https://github.com/hulyak/a-to-z-coding-resources/issues/41) in [hulyak/a-to-z-coding-resources](https://github.com/hulyak/a-to-z-coding-resources)
+4. 🎉 Merged PR [#40](https://github.com/hulyak/a-to-z-coding-resources/pull/40) in [hulyak/a-to-z-coding-resources](https://github.com/hulyak/a-to-z-coding-resources)
+5. 🗣 Commented on [#40](https://github.com/hulyak/a-to-z-coding-resources/issues/40) in [hulyak/a-to-z-coding-resources](https://github.com/hulyak/a-to-z-coding-resources)
 <!--END_SECTION:activity-->
 
 ---
