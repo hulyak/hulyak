@@ -47,11 +47,11 @@ I'm Hulya, a full-stack web engineer with proficiency in building fast, scalable
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#36](https://github.com/hulyak/keeper-app/pull/36) in [hulyak/keeper-app](https://github.com/hulyak/keeper-app)
-2. 💪 Opened PR [#27](https://github.com/hulyak/gatsby-blog/pull/27) in [hulyak/gatsby-blog](https://github.com/hulyak/gatsby-blog)
-3. 🎉 Merged PR [#41](https://github.com/hulyak/a-to-z-coding-resources/pull/41) in [hulyak/a-to-z-coding-resources](https://github.com/hulyak/a-to-z-coding-resources)
-4. 🗣 Commented on [#41](https://github.com/hulyak/a-to-z-coding-resources/issues/41) in [hulyak/a-to-z-coding-resources](https://github.com/hulyak/a-to-z-coding-resources)
-5. 🎉 Merged PR [#40](https://github.com/hulyak/a-to-z-coding-resources/pull/40) in [hulyak/a-to-z-coding-resources](https://github.com/hulyak/a-to-z-coding-resources)
+1. 💪 Opened PR [#30](https://github.com/hulyak/ravenous/pull/30) in [hulyak/ravenous](https://github.com/hulyak/ravenous)
+2. 💪 Opened PR [#36](https://github.com/hulyak/keeper-app/pull/36) in [hulyak/keeper-app](https://github.com/hulyak/keeper-app)
+3. 💪 Opened PR [#27](https://github.com/hulyak/gatsby-blog/pull/27) in [hulyak/gatsby-blog](https://github.com/hulyak/gatsby-blog)
+4. 🎉 Merged PR [#41](https://github.com/hulyak/a-to-z-coding-resources/pull/41) in [hulyak/a-to-z-coding-resources](https://github.com/hulyak/a-to-z-coding-resources)
+5. 🗣 Commented on [#41](https://github.com/hulyak/a-to-z-coding-resources/issues/41) in [hulyak/a-to-z-coding-resources](https://github.com/hulyak/a-to-z-coding-resources)
 <!--END_SECTION:activity-->
 
 ---
