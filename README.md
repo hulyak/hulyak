@@ -47,11 +47,11 @@ I'm Hulya, a full-stack web engineer with proficiency in building fast, scalable
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#22](https://github.com/hulyak/jammming-spotify/pull/22) in [hulyak/jammming-spotify](https://github.com/hulyak/jammming-spotify)
-2. 💪 Opened PR [#24](https://github.com/hulyak/react-blog/pull/24) in [hulyak/react-blog](https://github.com/hulyak/react-blog)
-3. 💪 Opened PR [#25](https://github.com/hulyak/authentication-whisperapp/pull/25) in [hulyak/authentication-whisperapp](https://github.com/hulyak/authentication-whisperapp)
-4. 💪 Opened PR [#40](https://github.com/hulyak/movie-app/pull/40) in [hulyak/movie-app](https://github.com/hulyak/movie-app)
-5. 💪 Opened PR [#28](https://github.com/hulyak/gatsby-blog/pull/28) in [hulyak/gatsby-blog](https://github.com/hulyak/gatsby-blog)
+1. 💪 Opened PR [#29](https://github.com/hulyak/gatsby-blog/pull/29) in [hulyak/gatsby-blog](https://github.com/hulyak/gatsby-blog)
+2. 💪 Opened PR [#22](https://github.com/hulyak/jammming-spotify/pull/22) in [hulyak/jammming-spotify](https://github.com/hulyak/jammming-spotify)
+3. 💪 Opened PR [#24](https://github.com/hulyak/react-blog/pull/24) in [hulyak/react-blog](https://github.com/hulyak/react-blog)
+4. 💪 Opened PR [#25](https://github.com/hulyak/authentication-whisperapp/pull/25) in [hulyak/authentication-whisperapp](https://github.com/hulyak/authentication-whisperapp)
+5. 💪 Opened PR [#40](https://github.com/hulyak/movie-app/pull/40) in [hulyak/movie-app](https://github.com/hulyak/movie-app)
 <!--END_SECTION:activity-->
 
 ---
