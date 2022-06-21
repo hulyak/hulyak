@@ -22,11 +22,11 @@ I'm Hulya, a full-stack web engineer with proficiency in building fast, scalable
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to use celebrate with Node.js](https://blog.logrocket.com/celebrate-node-js/)
-- [Comparing top Node.js frameworks for frontend developers](https://blog.logrocket.com/comparing-top-node-js-frameworks-frontend-developers/)
 - [One more PR for Hactoberfest](https://dev.to/hulyakarakaya/one-more-pr-for-hactoberfest-5gkp)
-- [Manage Node.js versions using asdf](https://blog.logrocket.com/manage-node-js-versions-using-asdf/)
-- [How to configure CSS Modules for webpack](https://blog.logrocket.com/how-to-configure-css-modules-webpack/)
+- [How to fix regeneratorRuntime is not defined?](https://dev.to/hulyakarakaya/how-to-fix-regeneratorruntime-is-not-defined-doj)
+- [Everything you need in One Repo](https://dev.to/hulyakarakaya/everything-you-need-in-one-repo-o26)
+- [Job-Hunting Resources](https://dev.to/hulyakarakaya/job-hunting-resources-452)
+- [How to Set Environment Variables in Next.js](https://dev.to/hulyakarakaya/how-to-set-environment-variables-in-next-js-3n3k)
 <!-- BLOG-POST-LIST:END -->
 
 
