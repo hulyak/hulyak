@@ -45,11 +45,11 @@ I'm Hulya, a full-stack web engineer with proficiency in building fast, scalable
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#26](https://github.com/hulyak/authentication-whisperapp/pull/26) in [hulyak/authentication-whisperapp](https://github.com/hulyak/authentication-whisperapp)
-2. 💪 Opened PR [#5](https://github.com/hulyak/e-commerce/pull/5) in [hulyak/e-commerce](https://github.com/hulyak/e-commerce)
-3. 💪 Opened PR [#37](https://github.com/hulyak/keeper-app/pull/37) in [hulyak/keeper-app](https://github.com/hulyak/keeper-app)
-4. 💪 Opened PR [#29](https://github.com/hulyak/gatsby-blog/pull/29) in [hulyak/gatsby-blog](https://github.com/hulyak/gatsby-blog)
-5. 💪 Opened PR [#22](https://github.com/hulyak/jammming-spotify/pull/22) in [hulyak/jammming-spotify](https://github.com/hulyak/jammming-spotify)
+1. 💪 Opened PR [#31](https://github.com/hulyak/ravenous/pull/31) in [hulyak/ravenous](https://github.com/hulyak/ravenous)
+2. 💪 Opened PR [#26](https://github.com/hulyak/authentication-whisperapp/pull/26) in [hulyak/authentication-whisperapp](https://github.com/hulyak/authentication-whisperapp)
+3. 💪 Opened PR [#5](https://github.com/hulyak/e-commerce/pull/5) in [hulyak/e-commerce](https://github.com/hulyak/e-commerce)
+4. 💪 Opened PR [#37](https://github.com/hulyak/keeper-app/pull/37) in [hulyak/keeper-app](https://github.com/hulyak/keeper-app)
+5. 💪 Opened PR [#29](https://github.com/hulyak/gatsby-blog/pull/29) in [hulyak/gatsby-blog](https://github.com/hulyak/gatsby-blog)
 <!--END_SECTION:activity-->
 
 ---
