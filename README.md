@@ -45,11 +45,11 @@ I'm Hulya, a full-stack web engineer with proficiency in building fast, scalable
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#25](https://github.com/hulyak/react-blog/pull/25) in [hulyak/react-blog](https://github.com/hulyak/react-blog)
-2. 💪 Opened PR [#42](https://github.com/hulyak/movie-app/pull/42) in [hulyak/movie-app](https://github.com/hulyak/movie-app)
-3. 💪 Opened PR [#31](https://github.com/hulyak/ravenous/pull/31) in [hulyak/ravenous](https://github.com/hulyak/ravenous)
-4. 💪 Opened PR [#26](https://github.com/hulyak/authentication-whisperapp/pull/26) in [hulyak/authentication-whisperapp](https://github.com/hulyak/authentication-whisperapp)
-5. 💪 Opened PR [#5](https://github.com/hulyak/e-commerce/pull/5) in [hulyak/e-commerce](https://github.com/hulyak/e-commerce)
+1. 💪 Opened PR [#21](https://github.com/hulyak/blog/pull/21) in [hulyak/blog](https://github.com/hulyak/blog)
+2. 💪 Opened PR [#25](https://github.com/hulyak/react-blog/pull/25) in [hulyak/react-blog](https://github.com/hulyak/react-blog)
+3. 💪 Opened PR [#42](https://github.com/hulyak/movie-app/pull/42) in [hulyak/movie-app](https://github.com/hulyak/movie-app)
+4. 💪 Opened PR [#31](https://github.com/hulyak/ravenous/pull/31) in [hulyak/ravenous](https://github.com/hulyak/ravenous)
+5. 💪 Opened PR [#26](https://github.com/hulyak/authentication-whisperapp/pull/26) in [hulyak/authentication-whisperapp](https://github.com/hulyak/authentication-whisperapp)
 <!--END_SECTION:activity-->
 
 ---
