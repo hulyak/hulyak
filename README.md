@@ -45,11 +45,11 @@ I'm Hulya, a full-stack web engineer with proficiency in building fast, scalable
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#27](https://github.com/hulyak/travel-app/pull/27) in [hulyak/travel-app](https://github.com/hulyak/travel-app)
-2. 💪 Opened PR [#27](https://github.com/hulyak/travel-app/pull/27) in [hulyak/travel-app](https://github.com/hulyak/travel-app)
-3. 💪 Opened PR [#24](https://github.com/hulyak/travel/pull/24) in [hulyak/travel](https://github.com/hulyak/travel)
-4. 💪 Opened PR [#21](https://github.com/hulyak/blog/pull/21) in [hulyak/blog](https://github.com/hulyak/blog)
-5. 💪 Opened PR [#25](https://github.com/hulyak/react-blog/pull/25) in [hulyak/react-blog](https://github.com/hulyak/react-blog)
+1. 🎉 Merged PR [#42](https://github.com/hulyak/a-to-z-coding-resources/pull/42) in [hulyak/a-to-z-coding-resources](https://github.com/hulyak/a-to-z-coding-resources)
+2. 🗣 Commented on [#42](https://github.com/hulyak/a-to-z-coding-resources/issues/42) in [hulyak/a-to-z-coding-resources](https://github.com/hulyak/a-to-z-coding-resources)
+3. ❌ Closed PR [#27](https://github.com/hulyak/travel-app/pull/27) in [hulyak/travel-app](https://github.com/hulyak/travel-app)
+4. 💪 Opened PR [#27](https://github.com/hulyak/travel-app/pull/27) in [hulyak/travel-app](https://github.com/hulyak/travel-app)
+5. 💪 Opened PR [#24](https://github.com/hulyak/travel/pull/24) in [hulyak/travel](https://github.com/hulyak/travel)
 <!--END_SECTION:activity-->
 
 ---
