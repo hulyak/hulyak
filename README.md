@@ -45,11 +45,11 @@ I'm Hulya, a full-stack web engineer with proficiency in building fast, scalable
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#42](https://github.com/hulyak/a-to-z-coding-resources/pull/42) in [hulyak/a-to-z-coding-resources](https://github.com/hulyak/a-to-z-coding-resources)
-2. 🗣 Commented on [#42](https://github.com/hulyak/a-to-z-coding-resources/issues/42) in [hulyak/a-to-z-coding-resources](https://github.com/hulyak/a-to-z-coding-resources)
-3. ❌ Closed PR [#27](https://github.com/hulyak/travel-app/pull/27) in [hulyak/travel-app](https://github.com/hulyak/travel-app)
-4. 💪 Opened PR [#27](https://github.com/hulyak/travel-app/pull/27) in [hulyak/travel-app](https://github.com/hulyak/travel-app)
-5. 💪 Opened PR [#24](https://github.com/hulyak/travel/pull/24) in [hulyak/travel](https://github.com/hulyak/travel)
+1. 🎉 Merged PR [#43](https://github.com/hulyak/a-to-z-coding-resources/pull/43) in [hulyak/a-to-z-coding-resources](https://github.com/hulyak/a-to-z-coding-resources)
+2. 🗣 Commented on [#43](https://github.com/hulyak/a-to-z-coding-resources/issues/43) in [hulyak/a-to-z-coding-resources](https://github.com/hulyak/a-to-z-coding-resources)
+3. 🎉 Merged PR [#44](https://github.com/hulyak/a-to-z-coding-resources/pull/44) in [hulyak/a-to-z-coding-resources](https://github.com/hulyak/a-to-z-coding-resources)
+4. 🗣 Commented on [#44](https://github.com/hulyak/a-to-z-coding-resources/issues/44) in [hulyak/a-to-z-coding-resources](https://github.com/hulyak/a-to-z-coding-resources)
+5. 🎉 Merged PR [#45](https://github.com/hulyak/a-to-z-coding-resources/pull/45) in [hulyak/a-to-z-coding-resources](https://github.com/hulyak/a-to-z-coding-resources)
 <!--END_SECTION:activity-->
 
 ---
