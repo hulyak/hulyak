@@ -1,8 +1,5 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24" />
 
-I'm Hulya, a full-stack web engineer with proficiency in building fast, scalable, and optimized web applications using the most suitable tool. Proficient in Javascript, Node.js, and React, and a technical writer who comes from a teaching and sales background.
-
-
 - 🔭 I’m currently working on something cool :wink:
 - 🌱 I have published my first online course [Node.js Getting Started](https://skl.sh/2Nrrj9g) and my slides [here](https://slides.com/hulyakarakaya/deck).
 - 💬 Ask me about anything related to Javascript/React/Express/Node
