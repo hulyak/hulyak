@@ -42,11 +42,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#7](https://github.com/PSPDFKit-labs/pdfkit-invoice/issues/7) in [PSPDFKit-labs/pdfkit-invoice](https://github.com/PSPDFKit-labs/pdfkit-invoice)
-2. 🎉 Merged PR [#46](https://github.com/hulyak/a-to-z-coding-resources/pull/46) in [hulyak/a-to-z-coding-resources](https://github.com/hulyak/a-to-z-coding-resources)
-3. 🗣 Commented on [#46](https://github.com/hulyak/a-to-z-coding-resources/issues/46) in [hulyak/a-to-z-coding-resources](https://github.com/hulyak/a-to-z-coding-resources)
-4. 🎉 Merged PR [#43](https://github.com/hulyak/a-to-z-coding-resources/pull/43) in [hulyak/a-to-z-coding-resources](https://github.com/hulyak/a-to-z-coding-resources)
-5. 🗣 Commented on [#43](https://github.com/hulyak/a-to-z-coding-resources/issues/43) in [hulyak/a-to-z-coding-resources](https://github.com/hulyak/a-to-z-coding-resources)
+1. 🗣 Commented on [#47](https://github.com/hulyak/a-to-z-coding-resources/issues/47) in [hulyak/a-to-z-coding-resources](https://github.com/hulyak/a-to-z-coding-resources)
+2. 🎉 Merged PR [#49](https://github.com/hulyak/a-to-z-coding-resources/pull/49) in [hulyak/a-to-z-coding-resources](https://github.com/hulyak/a-to-z-coding-resources)
+3. 🗣 Commented on [#49](https://github.com/hulyak/a-to-z-coding-resources/issues/49) in [hulyak/a-to-z-coding-resources](https://github.com/hulyak/a-to-z-coding-resources)
+4. 🎉 Merged PR [#48](https://github.com/hulyak/a-to-z-coding-resources/pull/48) in [hulyak/a-to-z-coding-resources](https://github.com/hulyak/a-to-z-coding-resources)
+5. ❗️ Closed issue [#7](https://github.com/PSPDFKit-labs/pdfkit-invoice/issues/7) in [PSPDFKit-labs/pdfkit-invoice](https://github.com/PSPDFKit-labs/pdfkit-invoice)
 <!--END_SECTION:activity-->
 
 ---
