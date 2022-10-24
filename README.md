@@ -1,15 +1,15 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24" />
 
 - 🔭 I’m currently working on something cool :wink:
-- 🌱 I have published my first online course [Node.js Getting Started](https://skl.sh/2Nrrj9g) and my slides [here](https://slides.com/hulyakarakaya/deck).
-- 💬 Ask me about anything related to Javascript/React/Express/Node
-- 🎗 Certified in [Azure Data](https://www.credly.com/badges/81a0e067-9522-4c22-a62a-b0975298d948/public_url) and [Azure Fundamentals](https://www.credly.com/badges/c0324318-5bae-4728-a2a2-f5720242006f/public_url)
-- 🏆 Certified in [Cloud Engineering with Google Cloud](https://www.coursera.org/account/accomplishments/specialization/certificate/CSNCU56GVNZD)
-- 🎖 Completed a [Cybersecurity program](https://drive.google.com/file/d/1337A20QLMpFrQMmRZU4OE5zewnRyZbdU/view?usp=sharing) by Google, ICMCP and Security Innovation.
+<!-- - 🌱 I have published my first online course [Node.js Getting Started](https://skl.sh/2Nrrj9g) and my slides [here](https://slides.com/hulyakarakaya/deck). -->
+<!-- - 💬 Ask me about anything related to Javascript/React/Express/Node -->
+<!-- - 🎗 Certified in [Azure Data](https://www.credly.com/badges/81a0e067-9522-4c22-a62a-b0975298d948/public_url) and [Azure Fundamentals](https://www.credly.com/badges/c0324318-5bae-4728-a2a2-f5720242006f/public_url) -->
+<!-- - 🏆 Certified in [Cloud Engineering with Google Cloud](https://www.coursera.org/account/accomplishments/specialization/certificate/CSNCU56GVNZD) -->
+<!-- - 🎖 Completed a [Cybersecurity program](https://drive.google.com/file/d/1337A20QLMpFrQMmRZU4OE5zewnRyZbdU/view?usp=sharing) by Google, ICMCP and Security Innovation. -->
 - 📫 How to reach me: [@hulyakarkya](https://twitter.com/hulyakarkya)
-- 👩‍💻 Technical writer on [LogRocket](https://blog.logrocket.com/author/hulyakarakaya/), [Hashnode](https://hulyakarakaya.hashnode.dev/) and [Dev.to](https://dev.to/hulyakarakaya)
-- ✌🏻 Winner of [North America Facebook Community Challenge](https://developers.facebook.com/blog/post/2020/11/18/2020-developer-circles-community-challenge-regional-winners-announced/)
-- ⚡ Fun fact: I'm scared of 🐈
+<!-- - 👩‍💻 Technical writer on [LogRocket](https://blog.logrocket.com/author/hulyakarakaya/), [Hashnode](https://hulyakarakaya.hashnode.dev/) and [Dev.to](https://dev.to/hulyakarakaya) -->
+<!-- - ✌🏻 Winner of [North America Facebook Community Challenge](https://developers.facebook.com/blog/post/2020/11/18/2020-developer-circles-community-challenge-regional-winners-announced/) -->
+<!-- - ⚡ Fun fact: I'm scared of 🐈 -->
 
 <img src="https://komarev.com/ghpvc/?username=hulyak&label=Profile%20views&color=0e75b6&style=flat" alt="hulyakarakaya" />
 
@@ -39,18 +39,6 @@
 
 ---
 
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#47](https://github.com/hulyak/a-to-z-coding-resources/issues/47) in [hulyak/a-to-z-coding-resources](https://github.com/hulyak/a-to-z-coding-resources)
-2. 🎉 Merged PR [#49](https://github.com/hulyak/a-to-z-coding-resources/pull/49) in [hulyak/a-to-z-coding-resources](https://github.com/hulyak/a-to-z-coding-resources)
-3. 🗣 Commented on [#49](https://github.com/hulyak/a-to-z-coding-resources/issues/49) in [hulyak/a-to-z-coding-resources](https://github.com/hulyak/a-to-z-coding-resources)
-4. 🎉 Merged PR [#48](https://github.com/hulyak/a-to-z-coding-resources/pull/48) in [hulyak/a-to-z-coding-resources](https://github.com/hulyak/a-to-z-coding-resources)
-5. ❗️ Closed issue [#7](https://github.com/PSPDFKit-labs/pdfkit-invoice/issues/7) in [PSPDFKit-labs/pdfkit-invoice](https://github.com/PSPDFKit-labs/pdfkit-invoice)
-<!--END_SECTION:activity-->
-
----
-
 <h2 align="center"> Get in touch with me...</h2>
 <p align="center">
 <a href="https://codepen.io/hulyak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="Hulya" height="30" width="40" /></a>
@@ -66,7 +54,7 @@
 
 
 
-### Technologies and Tools
+<!-- ### Technologies and Tools
 
 <p>
 
@@ -103,7 +91,7 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" title="Notion" />
 <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" title="Trello" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" title="Figma" />
-</p>
+</p> -->
 
 
 <h2 align="center"><i>⚙ GitHub Analytics:</i></h2>
