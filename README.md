@@ -23,7 +23,7 @@
 - [How to use celebrate with Node.js](https://blog.logrocket.com/celebrate-node-js/)
 - [Comparing top Node.js frameworks for frontend developers](https://blog.logrocket.com/comparing-top-node-js-frameworks-frontend-developers/)
 - [One more PR for Hactoberfest](https://hulyakarakaya.hashnode.dev/one-more-pr-for-hactoberfest)
-- [One more PR for Hactoberfest](https://dev.to/hulyakarakaya/one-more-pr-for-hactoberfest-5gkp)
+- [Manage Node.js versions using asdf](https://blog.logrocket.com/manage-node-js-versions-using-asdf/)
 <!-- BLOG-POST-LIST:END -->
 
 
