@@ -19,11 +19,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating a React context menu](https://blog.logrocket.com/creating-react-context-menu/)
 - [How to Build a Decentralized To-do App with Solidity and Alchemy](https://hulyakarakaya.hashnode.dev/how-to-build-a-decentralized-to-do-app-with-solidity-and-alchemy)
 - [How to use celebrate with Node.js](https://blog.logrocket.com/celebrate-node-js/)
 - [Comparing top Node.js frameworks for frontend developers](https://blog.logrocket.com/comparing-top-node-js-frameworks-frontend-developers/)
 - [One more PR for Hactoberfest](https://hulyakarakaya.hashnode.dev/one-more-pr-for-hactoberfest)
-- [One more PR for Hactoberfest](https://dev.to/hulyakarakaya/one-more-pr-for-hactoberfest-5gkp)
 <!-- BLOG-POST-LIST:END -->
 
 
