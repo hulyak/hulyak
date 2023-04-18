@@ -19,10 +19,10 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an adaptive, accessible UI library with React Aria](https://blog.logrocket.com/building-adaptive-accessible-ui-library-react-aria/)
-- [Build an accessible modal with focus-trap-react](https://blog.logrocket.com/build-accessible-modal-focus-trap-react/)
-- [Comparing top Node.js frameworks for frontend developers](https://blog.logrocket.com/comparing-top-node-js-frameworks-frontend-developers/)
-- [Creating a React context menu](https://blog.logrocket.com/creating-react-context-menu/)
+- [Building an adaptive, accessible UI library with React Aria](http://blog.logrocket.com/building-adaptive-accessible-ui-library-react-aria/)
+- [Build an accessible modal with focus-trap-react](http://blog.logrocket.com/build-accessible-modal-focus-trap-react/)
+- [Comparing top Node.js frameworks for frontend developers](http://blog.logrocket.com/comparing-top-node-js-frameworks-frontend-developers/)
+- [Creating a React context menu](http://blog.logrocket.com/creating-react-context-menu/)
 - [How to Build a Decentralized To-do App with Solidity and Alchemy](https://hulyakarakaya.hashnode.dev/how-to-build-a-decentralized-to-do-app-with-solidity-and-alchemy)
 <!-- BLOG-POST-LIST:END -->
 
