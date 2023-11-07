@@ -19,11 +19,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an adaptive, accessible UI library with React Aria](https://blog.logrocket.com/building-adaptive-accessible-ui-library-react-aria/)
-- [Build an accessible modal with focus-trap-react](https://blog.logrocket.com/build-accessible-modal-focus-trap-react/)
-- [Comparing top Node.js frameworks for frontend developers](https://blog.logrocket.com/comparing-top-node-js-frameworks-frontend-developers/)
-- [Creating a React context menu](https://blog.logrocket.com/creating-react-context-menu/)
 - [How to Build a Decentralized To-do App with Solidity and Alchemy](https://hulyakarakaya.hashnode.dev/how-to-build-a-decentralized-to-do-app-with-solidity-and-alchemy)
+- [One more PR for Hactoberfest](https://hulyakarakaya.hashnode.dev/one-more-pr-for-hactoberfest)
+- [One more PR for Hactoberfest](https://dev.to/hulyakarakaya/one-more-pr-for-hactoberfest-5gkp)
+- [How to fix regeneratorRuntime is not defined?](https://dev.to/hulyakarakaya/how-to-fix-regeneratorruntime-is-not-defined-doj)
+- [Everything you need in One Repo](https://hulyakarakaya.hashnode.dev/everything-you-need-in-one-repo)
 <!-- BLOG-POST-LIST:END -->
 
 
