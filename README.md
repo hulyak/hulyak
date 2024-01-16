@@ -6,7 +6,6 @@
 <!-- - 🎗 Certified in [Azure Data](https://www.credly.com/badges/81a0e067-9522-4c22-a62a-b0975298d948/public_url) and [Azure Fundamentals](https://www.credly.com/badges/c0324318-5bae-4728-a2a2-f5720242006f/public_url) -->
 <!-- - 🏆 Certified in [Cloud Engineering with Google Cloud](https://www.coursera.org/account/accomplishments/specialization/certificate/CSNCU56GVNZD) -->
 <!-- - 🎖 Completed a [Cybersecurity program](https://drive.google.com/file/d/1337A20QLMpFrQMmRZU4OE5zewnRyZbdU/view?usp=sharing) by Google, ICMCP and Security Innovation. -->
-- 📫 How to reach me: [@hulyakarkya](https://twitter.com/hulyakarkya)
 <!-- - 👩‍💻 Technical writer on [LogRocket](https://blog.logrocket.com/author/hulyakarakaya/), [Hashnode](https://hulyakarakaya.hashnode.dev/) and [Dev.to](https://dev.to/hulyakarakaya) -->
 <!-- - ✌🏻 Winner of [North America Facebook Community Challenge](https://developers.facebook.com/blog/post/2020/11/18/2020-developer-circles-community-challenge-regional-winners-announced/) -->
 <!-- - ⚡ Fun fact: I'm scared of 🐈 -->
