@@ -18,11 +18,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SEO-Optimized HTML: How to Structure Your Web Pages for Maximum Visibility](https://dev.to/hulyamasharipov/seo-optimized-html-how-to-structure-your-web-pages-for-maximum-visibility-527f)
 - [Manage Node.js versions using asdf](https://blog.logrocket.com/manage-node-js-versions-using-asdf/)
+- [How to Convert HTML to PDF Using React](https://dev.to/hulyamasharipov/how-to-convert-html-to-pdf-using-react-37j4)
 - [Building an adaptive, accessible UI library with React Aria](https://blog.logrocket.com/building-adaptive-accessible-ui-library-react-aria/)
 - [Build an accessible modal with focus-trap-react](https://blog.logrocket.com/build-accessible-modal-focus-trap-react/)
-- [Comparing top Node.js frameworks for frontend developers](https://blog.logrocket.com/comparing-top-node-js-frameworks-frontend-developers/)
-- [Creating a React context menu](https://blog.logrocket.com/creating-react-context-menu/)
 <!-- BLOG-POST-LIST:END -->
 
 
