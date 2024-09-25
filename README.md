@@ -18,11 +18,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [10 Free Resources for Learning Advanced React Concepts](https://hulyam.medium.com/10-free-resources-for-learning-advanced-react-concepts-c15f152a5e93?source=rss-ee6e659d4b0f------2)
 - [Introduction to Prompt Engineering for Generative AI](https://hulyam.medium.com/introduction-to-prompt-engineering-for-generative-ai-2f8d0f67b6d9?source=rss-ee6e659d4b0f------2)
 - [5 Must-Know JavaScript Libraries for AI and Machine Learning in 2024](https://hulyam.medium.com/5-must-know-javascript-libraries-for-ai-and-machine-learning-in-2024-bd59d8f7d42f?source=rss-ee6e659d4b0f------2)
 - [React Performance Optimization: 7 Techniques to Speed Up Your App](https://hulyam.medium.com/react-performance-optimization-7-techniques-to-speed-up-your-app-6572b41b404a?source=rss-ee6e659d4b0f------2)
 - [Boost Your TypeScript Productivity with AI: How GitHub Copilot is Transforming Development](https://hulyam.medium.com/boost-your-typescript-productivity-with-ai-how-github-copilot-is-transforming-development-fa7ef0baea47?source=rss-ee6e659d4b0f------2)
-- [10 JavaScript Tricks That Will Make You a Better Developer Overnight](https://hulyam.medium.com/10-javascript-tricks-that-will-make-you-a-better-developer-overnight-d9f098ca472c?source=rss-ee6e659d4b0f------2)
 <!-- BLOG-POST-LIST:END -->
 
 
