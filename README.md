@@ -44,10 +44,10 @@
 <a href="https://codesandbox.io/u/hulyak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="Hulya" height="30" width="40" /></a>
 <a href="https://dev.to/hulyakarakaya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Hulya" height="30" width="40" /></a>
 <a href="https://twitter.com/hulyakarkya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Hulya" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/hulya-karakaya/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Hulya" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hulya-masharipov/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Hulya" height="30" width="40" /></a>
  <a href="mailto:hulyakarakayaa06@gmail.com"><img align="center" alt="mail me" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="30" width="40"  /></a>
 <a href="https://blog.logrocket.com/author/hulyakarakaya"><img alt="LogRocket" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg" height="30" width="40" align="center" /></a>
-<a href="https://hulyakarakaya.hashnode.dev/"><img alt="Hashnode" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg" height="30" width="40" align="center" /></a>
+<a href="https://hulya.hashnode.dev/"><img alt="Hashnode" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg" height="30" width="40" align="center" /></a>
 </p>
 <br>
 
