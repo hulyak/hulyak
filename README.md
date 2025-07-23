@@ -18,11 +18,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [PDF Generation in Angular Applications: Comparing Client-Side and Advanced Approaches](https://hulyam.medium.com/pdf-generation-in-angular-applications-comparing-client-side-and-advanced-approaches-6d2606a579fc?source=rss-ee6e659d4b0f------2)
 - [Generating PDFs in Angular applications: two practical approaches](https://hulyam.medium.com/generating-pdfs-in-angular-applications-two-practical-approaches-c85169438540?source=rss-ee6e659d4b0f------2)
 - [Embed PDF in HTML: The ultimate guide to displaying PDFs on your website](https://hulyam.medium.com/embed-pdf-in-html-the-ultimate-guide-to-displaying-pdfs-on-your-website-b5079c824669?source=rss-ee6e659d4b0f------2)
 - [10 Free Resources for Learning Advanced React Concepts](https://hulyam.medium.com/10-free-resources-for-learning-advanced-react-concepts-c15f152a5e93?source=rss-ee6e659d4b0f------2)
 - [Introduction to Prompt Engineering for Generative AI](https://hulyam.medium.com/introduction-to-prompt-engineering-for-generative-ai-2f8d0f67b6d9?source=rss-ee6e659d4b0f------2)
-- [5 Must-Know JavaScript Libraries for AI and Machine Learning in 2024](https://hulyam.medium.com/5-must-know-javascript-libraries-for-ai-and-machine-learning-in-2024-bd59d8f7d42f?source=rss-ee6e659d4b0f------2)
 <!-- BLOG-POST-LIST:END -->
 
 
