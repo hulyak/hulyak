@@ -18,11 +18,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Forked A/B Index Optimizer: Making Database Optimization Accessible to Everyone](https://dev.to/hulyamasharipov/forked-ab-index-optimizer-making-database-optimization-accessible-to-everyone-3641)
 - [ResearchHub AI: Secure Academic Research Assistant with Auth0 for AI Agents](https://dev.to/hulyamasharipov/researchhub-ai-secure-academic-research-assistant-with-auth0-for-ai-agents-2ejl)
 - [Word to PDF Conversion in Node.js: Free and Commercial Approaches](https://hulyam.medium.com/word-to-pdf-conversion-in-node-js-free-and-commercial-approaches-67076916404b?source=rss-ee6e659d4b0f------2)
 - [PDF Generation in Angular Applications: Comparing Client-Side and Advanced Approaches](https://hulyam.medium.com/pdf-generation-in-angular-applications-comparing-client-side-and-advanced-approaches-6d2606a579fc?source=rss-ee6e659d4b0f------2)
 - [Generating PDFs in Angular applications: two practical approaches](https://hulyam.medium.com/generating-pdfs-in-angular-applications-two-practical-approaches-c85169438540?source=rss-ee6e659d4b0f------2)
-- [Embed PDF in HTML: The ultimate guide to displaying PDFs on your website](https://hulyam.medium.com/embed-pdf-in-html-the-ultimate-guide-to-displaying-pdfs-on-your-website-b5079c824669?source=rss-ee6e659d4b0f------2)
 <!-- BLOG-POST-LIST:END -->
 
 
