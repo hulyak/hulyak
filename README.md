@@ -19,10 +19,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [From Specs to Spooky: Using Kiro to Build My AI Psychic Hotline](https://dev.to/hulyamasharipov/from-specs-to-spooky-using-kiro-to-build-my-ai-psychic-hotline-3552)
+- [Building PocketGuide: A Multi-Agent Platform for Personalized Audio Tours](https://hulyam.medium.com/building-pocketguide-a-multi-agent-platform-for-personalized-audio-tours-f0f38f8ab038?source=rss-ee6e659d4b0f------2)
 - [Forked A/B Index Optimizer: Making Database Optimization Accessible to Everyone](https://dev.to/hulyamasharipov/forked-ab-index-optimizer-making-database-optimization-accessible-to-everyone-3641)
 - [ResearchHub AI: Secure Academic Research Assistant with Auth0 for AI Agents](https://dev.to/hulyamasharipov/researchhub-ai-secure-academic-research-assistant-with-auth0-for-ai-agents-2ejl)
-- [SEO-Optimized HTML: How to Structure Your Web Pages for Maximum Visibility](https://dev.to/hulyamasharipov/seo-optimized-html-how-to-structure-your-web-pages-for-maximum-visibility-527f)
-- [Manage Node.js versions using asdf](https://blog.logrocket.com/manage-node-js-versions-using-asdf/)
+- [Word to PDF Conversion in Node.js: Free and Commercial Approaches](https://hulyam.medium.com/word-to-pdf-conversion-in-node-js-free-and-commercial-approaches-67076916404b?source=rss-ee6e659d4b0f------2)
 <!-- BLOG-POST-LIST:END -->
 
 
