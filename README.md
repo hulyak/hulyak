@@ -91,7 +91,7 @@
 <h2 align="center"><i>⚙ GitHub Analytics:</i></h2>
 
 <p align="center">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hulyak&theme=dracula" alt="hulyakarakaya" />
+    <img height="180em" src="https://streak-stats.demolab.com/?user=hulyak&theme=dracula" alt="hulyakarakaya" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hulyak&show_icons=true&count_private=true&theme=dracula&locale=en" alt="hulya" /> 
     <!-- <img height="180em" src="https://raw.githubusercontent.com/hulyak/hulyak/master/profile-summary-card-output/dracula/1-repos-per-language.svg" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hulyak&layout=compact" alt="hulya" /> -->
