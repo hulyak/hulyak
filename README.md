@@ -40,14 +40,9 @@
 
 <h2 align="center"> Get in touch with me...</h2>
 <p align="center">
-<a href="https://codepen.io/hulyak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="Hulya" height="30" width="40" /></a>
-<a href="https://codesandbox.io/u/hulyak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="Hulya" height="30" width="40" /></a>
-<a href="https://dev.to/hulyakarakaya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Hulya" height="30" width="40" /></a>
-<a href="https://twitter.com/hulyakarkya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Hulya" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/hulya-masharipov/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Hulya" height="30" width="40" /></a>
- <a href="mailto:hulyakarakayaa06@gmail.com"><img align="center" alt="mail me" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="30" width="40"  /></a>
-<a href="https://blog.logrocket.com/author/hulyakarakaya"><img alt="LogRocket" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg" height="30" width="40" align="center" /></a>
-<a href="https://hulya.hashnode.dev/"><img alt="Hashnode" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg" height="30" width="40" align="center" /></a>
+<a href="https://dev.to/hulyakarakaya"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" /></a>
+<a href="https://www.linkedin.com/in/hulya-masharipov/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:hulyakarakayaa06@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 <br>
 
@@ -86,7 +81,7 @@
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" title="Google Cloud" />
 <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" title="Azure" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" title="Github Actions" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" title=Vercel"" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" title="Vercel" />
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" title="Notion" />
 <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" title="Trello" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" title="Figma" />
@@ -109,4 +104,3 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hulyak&theme=onedark&row=1" alt="hulyakarakaya" /></a> </p>
 <hr>
  -->
-
